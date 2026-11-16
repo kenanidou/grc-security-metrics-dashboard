@@ -1,0 +1,302 @@
+asset_id,hostname,asset_type,operating_system,business_unit,criticality,owner
+AST-0001,web-ath-0001,Web Application,,Commercial,High,owner09@example.com
+AST-0002,web-ath-0002,Web Application,,Supply Chain,Medium,owner02@example.com
+AST-0003,ser-thes-0003,Server,Windows Server 2022,Supply Chain,Medium,owner36@example.com
+AST-0004,wor-nyc-0004,Workstation,Windows 10,Corporate IT,Medium,owner01@example.com
+AST-0005,wor-nyc-0005,Workstation,Windows 11,Commercial,High,owner22@example.com
+AST-0006,ser-ath-0006,Server,Ubuntu 22.04,Manufacturing,Medium,owner23@example.com
+AST-0007,dat-bru-0007,Database,Oracle 19c,Corporate IT,Medium,owner25@example.com
+AST-0008,ser-bru-0008,Server,RHEL 8,Supply Chain,High,owner05@example.com
+AST-0009,ser-thes-0009,Server,RHEL 8,Manufacturing,Low,owner07@example.com
+AST-0010,clo-bru-0010,Cloud Instance,Ubuntu 22.04,Commercial,High,owner23@example.com
+AST-0011,wor-bru-0011,Workstation,macOS 14,Manufacturing,Medium,owner11@example.com
+AST-0012,dat-thes-0012,Database,Oracle 19c,Corporate IT,Medium,owner36@example.com
+AST-0013,wor-bru-0013,Workstation,Windows 10,R&D,Low,owner21@example.com
+AST-0014,clo-bru-0014,Cloud Instance,Amazon Linux 2,R&D,Low,owner37@example.com
+AST-0015,web-bru-0015,Web Application,,Corporate IT,Medium,owner30@example.com
+AST-0016,wor-bru-0016,Workstation,Windows 10,R&D,Medium,owner35@example.com
+AST-0017,net-nyc-0017,Network Device,Junos,Corporate IT,Medium,owner09@example.com
+AST-0018,dat-nyc-0018,Database,Oracle 19c,Manufacturing,Low,owner10@example.com
+AST-0019,web-thes-0019,Web Application,,Supply Chain,Critical,owner25@example.com
+AST-0020,dat-nyc-0020,Database,PostgreSQL 14,Commercial,Low,owner01@example.com
+AST-0021,web-ath-0021,Web Application,,Commercial,High,owner28@example.com
+AST-0022,wor-nyc-0022,Workstation,Windows 10,Commercial,Low,owner12@example.com
+AST-0023,dat-ath-0023,Database,PostgreSQL 14,Commercial,Low,owner33@example.com
+AST-0024,dat-thes-0024,Database,Oracle 19c,Commercial,Low,owner35@example.com
+AST-0025,dat-ath-0025,Database,PostgreSQL 14,Commercial,Medium,owner08@example.com
+AST-0026,net-bru-0026,Network Device,Cisco IOS,Manufacturing,High,owner37@example.com
+AST-0027,ser-ath-0027,Server,Ubuntu 22.04,Manufacturing,Low,owner35@example.com
+AST-0028,wor-thes-0028,Workstation,macOS 14,Corporate IT,Low,owner11@example.com
+AST-0029,net-nyc-0029,Network Device,Cisco IOS,Supply Chain,Low,owner13@example.com
+AST-0030,web-bru-0030,Web Application,,Commercial,Medium,owner34@example.com
+AST-0031,clo-ath-0031,Cloud Instance,Amazon Linux 2,R&D,Critical,owner02@example.com
+AST-0032,dat-thes-0032,Database,PostgreSQL 14,R&D,Critical,owner04@example.com
+AST-0033,wor-ath-0033,Workstation,Windows 10,Commercial,Critical,owner16@example.com
+AST-0034,net-nyc-0034,Network Device,Cisco IOS,Supply Chain,High,owner37@example.com
+AST-0035,dat-nyc-0035,Database,Oracle 19c,Corporate IT,Low,owner13@example.com
+AST-0036,ser-ath-0036,Server,Ubuntu 22.04,Commercial,Medium,owner30@example.com
+AST-0037,web-ath-0037,Web Application,,Manufacturing,Medium,owner22@example.com
+AST-0038,ser-thes-0038,Server,Windows Server 2022,R&D,Medium,owner09@example.com
+AST-0039,clo-thes-0039,Cloud Instance,Ubuntu 22.04,Corporate IT,High,owner05@example.com
+AST-0040,clo-ath-0040,Cloud Instance,Amazon Linux 2,Supply Chain,Low,owner06@example.com
+AST-0041,wor-thes-0041,Workstation,Windows 11,Corporate IT,Medium,owner26@example.com
+AST-0042,ser-thes-0042,Server,Ubuntu 22.04,Manufacturing,Low,owner17@example.com
+AST-0043,clo-bru-0043,Cloud Instance,Ubuntu 22.04,Supply Chain,Medium,owner32@example.com
+AST-0044,wor-thes-0044,Workstation,Windows 11,R&D,Low,owner38@example.com
+AST-0045,web-ath-0045,Web Application,,Manufacturing,Critical,owner31@example.com
+AST-0046,dat-thes-0046,Database,Oracle 19c,Supply Chain,Critical,owner12@example.com
+AST-0047,ser-ath-0047,Server,Windows Server 2022,Corporate IT,High,owner37@example.com
+AST-0048,wor-ath-0048,Workstation,macOS 14,Manufacturing,Medium,owner38@example.com
+AST-0049,dat-bru-0049,Database,SQL Server 2019,R&D,Medium,owner21@example.com
+AST-0050,wor-bru-0050,Workstation,Windows 11,R&D,Medium,owner20@example.com
+AST-0051,clo-bru-0051,Cloud Instance,Amazon Linux 2,Manufacturing,Medium,owner37@example.com
+AST-0052,ser-ath-0052,Server,Windows Server 2022,Supply Chain,High,owner23@example.com
+AST-0053,ser-thes-0053,Server,RHEL 8,Commercial,High,owner35@example.com
+AST-0054,web-bru-0054,Web Application,,Supply Chain,High,owner07@example.com
+AST-0055,wor-bru-0055,Workstation,Windows 10,Manufacturing,Medium,owner10@example.com
+AST-0056,net-bru-0056,Network Device,Junos,R&D,Medium,owner14@example.com
+AST-0057,web-bru-0057,Web Application,,Commercial,Low,owner04@example.com
+AST-0058,ser-nyc-0058,Server,RHEL 8,Manufacturing,Critical,owner09@example.com
+AST-0059,web-bru-0059,Web Application,,Corporate IT,Medium,owner28@example.com
+AST-0060,dat-ath-0060,Database,Oracle 19c,Manufacturing,Low,owner10@example.com
+AST-0061,dat-ath-0061,Database,SQL Server 2019,Supply Chain,Medium,owner28@example.com
+AST-0062,wor-ath-0062,Workstation,Windows 11,Commercial,Low,owner03@example.com
+AST-0063,net-thes-0063,Network Device,Junos,R&D,Medium,owner23@example.com
+AST-0064,dat-nyc-0064,Database,PostgreSQL 14,R&D,Low,owner16@example.com
+AST-0065,wor-thes-0065,Workstation,Windows 11,Manufacturing,High,owner22@example.com
+AST-0066,clo-thes-0066,Cloud Instance,Ubuntu 22.04,R&D,Low,owner07@example.com
+AST-0067,clo-ath-0067,Cloud Instance,Ubuntu 22.04,R&D,High,owner30@example.com
+AST-0068,net-bru-0068,Network Device,Cisco IOS,R&D,Critical,owner13@example.com
+AST-0069,clo-bru-0069,Cloud Instance,Ubuntu 22.04,Manufacturing,Low,owner18@example.com
+AST-0070,net-nyc-0070,Network Device,Junos,Supply Chain,High,owner02@example.com
+AST-0071,ser-bru-0071,Server,Windows Server 2022,Supply Chain,Low,owner17@example.com
+AST-0072,ser-ath-0072,Server,Ubuntu 22.04,Commercial,Medium,owner21@example.com
+AST-0073,clo-ath-0073,Cloud Instance,Ubuntu 22.04,Supply Chain,High,owner03@example.com
+AST-0074,web-nyc-0074,Web Application,,Supply Chain,Low,Unassigned
+AST-0075,web-thes-0075,Web Application,,Corporate IT,Critical,owner22@example.com
+AST-0076,dat-bru-0076,Database,PostgreSQL 14,Manufacturing,Medium,owner20@example.com
+AST-0077,dat-bru-0077,Database,PostgreSQL 14,Corporate IT,High,owner19@example.com
+AST-0078,dat-thes-0078,Database,Oracle 19c,Corporate IT,Medium,owner25@example.com
+AST-0079,web-thes-0079,Web Application,,Corporate IT,Medium,owner01@example.com
+AST-0080,net-bru-0080,Network Device,Cisco IOS,Corporate IT,Low,owner39@example.com
+AST-0081,web-bru-0081,Web Application,,Corporate IT,Medium,owner14@example.com
+AST-0082,dat-nyc-0082,Database,PostgreSQL 14,R&D,Medium,owner19@example.com
+AST-0083,dat-bru-0083,Database,Oracle 19c,R&D,Medium,owner15@example.com
+AST-0084,wor-thes-0084,Workstation,Windows 10,Manufacturing,High,owner31@example.com
+AST-0085,dat-ath-0085,Database,SQL Server 2019,Corporate IT,Low,owner37@example.com
+AST-0086,wor-nyc-0086,Workstation,Windows 11,Corporate IT,High,owner01@example.com
+AST-0087,ser-nyc-0087,Server,Windows Server 2022,R&D,Low,owner34@example.com
+AST-0088,clo-ath-0088,Cloud Instance,Windows Server 2022,R&D,Low,owner08@example.com
+AST-0089,clo-thes-0089,Cloud Instance,Ubuntu 22.04,Supply Chain,Low,owner39@example.com
+AST-0090,net-nyc-0090,Network Device,Junos,Supply Chain,Medium,owner36@example.com
+AST-0091,clo-thes-0091,Cloud Instance,Windows Server 2022,Corporate IT,Medium,owner16@example.com
+AST-0092,web-bru-0092,Web Application,,R&D,High,owner05@example.com
+AST-0093,web-bru-0093,Web Application,,Commercial,High,owner35@example.com
+AST-0094,ser-thes-0094,Server,Windows Server 2022,R&D,Medium,owner10@example.com
+AST-0095,web-thes-0095,Web Application,,Corporate IT,Medium,owner35@example.com
+AST-0096,clo-nyc-0096,Cloud Instance,Amazon Linux 2,R&D,Low,owner25@example.com
+AST-0097,dat-ath-0097,Database,PostgreSQL 14,Corporate IT,Medium,owner23@example.com
+AST-0098,net-nyc-0098,Network Device,FortiOS,Supply Chain,Medium,owner35@example.com
+AST-0099,dat-thes-0099,Database,SQL Server 2019,R&D,High,owner32@example.com
+AST-0100,ser-nyc-0100,Server,RHEL 8,Corporate IT,Medium,owner30@example.com
+AST-0101,wor-ath-0101,Workstation,Windows 11,Supply Chain,Medium,owner02@example.com
+AST-0102,ser-nyc-0102,Server,Windows Server 2022,Corporate IT,High,owner17@example.com
+AST-0103,clo-bru-0103,Cloud Instance,Amazon Linux 2,Corporate IT,High,owner25@example.com
+AST-0104,net-nyc-0104,Network Device,FortiOS,Manufacturing,Medium,owner35@example.com
+AST-0105,ser-bru-0105,Server,Windows Server 2022,Manufacturing,Low,owner03@example.com
+AST-0106,ser-thes-0106,Server,Windows Server 2022,Manufacturing,Medium,owner16@example.com
+AST-0107,wor-nyc-0107,Workstation,macOS 14,Manufacturing,Medium,Unassigned
+AST-0108,clo-bru-0108,Cloud Instance,Ubuntu 22.04,R&D,Medium,owner08@example.com
+AST-0109,wor-bru-0109,Workstation,Windows 10,Supply Chain,Critical,owner20@example.com
+AST-0110,dat-nyc-0110,Database,SQL Server 2019,R&D,Critical,owner16@example.com
+AST-0111,ser-bru-0111,Server,Windows Server 2019,Supply Chain,Low,owner23@example.com
+AST-0112,dat-nyc-0112,Database,PostgreSQL 14,Commercial,Critical,owner22@example.com
+AST-0113,ser-nyc-0113,Server,Ubuntu 22.04,Manufacturing,Medium,owner24@example.com
+AST-0114,web-nyc-0114,Web Application,,Corporate IT,High,owner34@example.com
+AST-0115,web-bru-0115,Web Application,,Corporate IT,Medium,owner38@example.com
+AST-0116,net-bru-0116,Network Device,Cisco IOS,Manufacturing,High,owner29@example.com
+AST-0117,wor-nyc-0117,Workstation,macOS 14,Supply Chain,Medium,owner22@example.com
+AST-0118,ser-nyc-0118,Server,RHEL 8,R&D,Medium,owner23@example.com
+AST-0119,net-bru-0119,Network Device,FortiOS,Supply Chain,Medium,owner18@example.com
+AST-0120,dat-ath-0120,Database,PostgreSQL 14,R&D,Critical,owner27@example.com
+AST-0121,clo-thes-0121,Cloud Instance,Windows Server 2022,Corporate IT,Medium,owner32@example.com
+AST-0122,clo-ath-0122,Cloud Instance,Amazon Linux 2,Commercial,High,owner16@example.com
+AST-0123,net-bru-0123,Network Device,FortiOS,Supply Chain,Medium,owner28@example.com
+AST-0124,web-bru-0124,Web Application,,Corporate IT,High,Unassigned
+AST-0125,wor-ath-0125,Workstation,macOS 14,R&D,High,owner35@example.com
+AST-0126,web-thes-0126,Web Application,,R&D,Medium,owner18@example.com
+AST-0127,web-bru-0127,Web Application,,R&D,High,owner24@example.com
+AST-0128,wor-bru-0128,Workstation,Windows 10,Supply Chain,High,Unassigned
+AST-0129,ser-bru-0129,Server,Windows Server 2022,Corporate IT,High,owner01@example.com
+AST-0130,dat-bru-0130,Database,SQL Server 2019,Corporate IT,Medium,owner12@example.com
+AST-0131,ser-bru-0131,Server,Ubuntu 22.04,Manufacturing,Low,owner26@example.com
+AST-0132,clo-ath-0132,Cloud Instance,Windows Server 2022,Manufacturing,High,owner37@example.com
+AST-0133,net-ath-0133,Network Device,Cisco IOS,Manufacturing,Medium,owner27@example.com
+AST-0134,dat-thes-0134,Database,PostgreSQL 14,Corporate IT,Medium,owner29@example.com
+AST-0135,net-nyc-0135,Network Device,FortiOS,Supply Chain,Medium,owner40@example.com
+AST-0136,web-ath-0136,Web Application,,R&D,High,owner06@example.com
+AST-0137,wor-thes-0137,Workstation,Windows 10,Supply Chain,Critical,owner01@example.com
+AST-0138,clo-nyc-0138,Cloud Instance,Windows Server 2022,Supply Chain,Medium,owner03@example.com
+AST-0139,wor-bru-0139,Workstation,macOS 14,Commercial,Medium,owner30@example.com
+AST-0140,ser-thes-0140,Server,RHEL 8,Supply Chain,Medium,owner13@example.com
+AST-0141,clo-ath-0141,Cloud Instance,Windows Server 2022,R&D,Medium,owner18@example.com
+AST-0142,wor-ath-0142,Workstation,Windows 10,R&D,Low,owner39@example.com
+AST-0143,web-bru-0143,Web Application,,Manufacturing,Medium,owner20@example.com
+AST-0144,web-nyc-0144,Web Application,,Supply Chain,Medium,owner29@example.com
+AST-0145,ser-ath-0145,Server,Ubuntu 22.04,Commercial,Medium,owner02@example.com
+AST-0146,ser-thes-0146,Server,Windows Server 2019,Commercial,Medium,owner12@example.com
+AST-0147,clo-nyc-0147,Cloud Instance,Ubuntu 22.04,R&D,Low,owner28@example.com
+AST-0148,web-nyc-0148,Web Application,,Corporate IT,High,owner22@example.com
+AST-0149,net-ath-0149,Network Device,Cisco IOS,Commercial,Medium,owner32@example.com
+AST-0150,net-nyc-0150,Network Device,Junos,Manufacturing,Medium,owner21@example.com
+AST-0151,net-bru-0151,Network Device,Cisco IOS,Corporate IT,Low,owner01@example.com
+AST-0152,web-nyc-0152,Web Application,,Manufacturing,High,owner24@example.com
+AST-0153,dat-nyc-0153,Database,PostgreSQL 14,Corporate IT,Low,owner14@example.com
+AST-0154,net-thes-0154,Network Device,FortiOS,Corporate IT,Low,owner32@example.com
+AST-0155,ser-ath-0155,Server,Windows Server 2022,R&D,High,owner01@example.com
+AST-0156,dat-nyc-0156,Database,Oracle 19c,R&D,Low,owner08@example.com
+AST-0157,clo-ath-0157,Cloud Instance,Windows Server 2022,R&D,Medium,owner19@example.com
+AST-0158,dat-bru-0158,Database,SQL Server 2019,Corporate IT,Low,owner16@example.com
+AST-0159,clo-thes-0159,Cloud Instance,Ubuntu 22.04,R&D,Low,owner33@example.com
+AST-0160,web-thes-0160,Web Application,,Commercial,Low,owner27@example.com
+AST-0161,net-bru-0161,Network Device,Cisco IOS,Commercial,Medium,owner38@example.com
+AST-0162,dat-nyc-0162,Database,Oracle 19c,Corporate IT,Medium,owner23@example.com
+AST-0163,net-nyc-0163,Network Device,FortiOS,Commercial,Low,owner16@example.com
+AST-0164,dat-nyc-0164,Database,Oracle 19c,Corporate IT,Critical,owner31@example.com
+AST-0165,web-nyc-0165,Web Application,,R&D,Medium,owner03@example.com
+AST-0166,wor-bru-0166,Workstation,Windows 10,Corporate IT,Critical,owner30@example.com
+AST-0167,ser-thes-0167,Server,Ubuntu 22.04,R&D,Critical,owner17@example.com
+AST-0168,net-nyc-0168,Network Device,Junos,Manufacturing,Low,owner35@example.com
+AST-0169,clo-bru-0169,Cloud Instance,Windows Server 2022,Corporate IT,Low,owner03@example.com
+AST-0170,dat-ath-0170,Database,Oracle 19c,Commercial,Low,owner06@example.com
+AST-0171,clo-ath-0171,Cloud Instance,Windows Server 2022,Manufacturing,Medium,owner20@example.com
+AST-0172,ser-ath-0172,Server,RHEL 8,Manufacturing,High,owner24@example.com
+AST-0173,clo-thes-0173,Cloud Instance,Amazon Linux 2,Supply Chain,Medium,owner12@example.com
+AST-0174,wor-thes-0174,Workstation,Windows 10,Supply Chain,Low,owner40@example.com
+AST-0175,web-thes-0175,Web Application,,Supply Chain,High,owner30@example.com
+AST-0176,web-bru-0176,Web Application,,Commercial,Medium,owner30@example.com
+AST-0177,net-thes-0177,Network Device,Cisco IOS,Corporate IT,Low,Unassigned
+AST-0178,net-nyc-0178,Network Device,Junos,Commercial,Medium,owner20@example.com
+AST-0179,wor-nyc-0179,Workstation,Windows 11,Manufacturing,High,owner37@example.com
+AST-0180,net-bru-0180,Network Device,Junos,Commercial,Critical,owner26@example.com
+AST-0181,net-ath-0181,Network Device,Junos,Manufacturing,Low,owner32@example.com
+AST-0182,net-thes-0182,Network Device,Junos,Commercial,High,owner13@example.com
+AST-0183,dat-bru-0183,Database,PostgreSQL 14,R&D,Medium,owner03@example.com
+AST-0184,net-nyc-0184,Network Device,Cisco IOS,Supply Chain,Medium,owner09@example.com
+AST-0185,ser-bru-0185,Server,RHEL 8,Corporate IT,High,owner09@example.com
+AST-0186,dat-bru-0186,Database,PostgreSQL 14,Supply Chain,Low,Unassigned
+AST-0187,net-nyc-0187,Network Device,FortiOS,Commercial,Low,owner30@example.com
+AST-0188,ser-thes-0188,Server,Windows Server 2022,Corporate IT,Low,owner36@example.com
+AST-0189,net-ath-0189,Network Device,FortiOS,Manufacturing,High,owner08@example.com
+AST-0190,clo-bru-0190,Cloud Instance,Windows Server 2022,Commercial,Medium,Unassigned
+AST-0191,ser-thes-0191,Server,Ubuntu 22.04,Manufacturing,Medium,owner36@example.com
+AST-0192,net-thes-0192,Network Device,Junos,Manufacturing,Medium,owner30@example.com
+AST-0193,web-bru-0193,Web Application,,Manufacturing,High,owner03@example.com
+AST-0194,net-nyc-0194,Network Device,Cisco IOS,Manufacturing,High,owner35@example.com
+AST-0195,wor-nyc-0195,Workstation,Windows 11,Commercial,Medium,owner35@example.com
+AST-0196,clo-thes-0196,Cloud Instance,Ubuntu 22.04,Manufacturing,Low,owner40@example.com
+AST-0197,clo-bru-0197,Cloud Instance,Amazon Linux 2,Commercial,High,owner29@example.com
+AST-0198,wor-bru-0198,Workstation,Windows 10,Commercial,Medium,owner23@example.com
+AST-0199,ser-nyc-0199,Server,RHEL 8,R&D,Low,owner30@example.com
+AST-0200,ser-thes-0200,Server,Windows Server 2019,Manufacturing,Low,owner16@example.com
+AST-0201,wor-thes-0201,Workstation,Windows 10,Supply Chain,High,owner14@example.com
+AST-0202,wor-bru-0202,Workstation,Windows 10,Supply Chain,Critical,owner10@example.com
+AST-0203,wor-bru-0203,Workstation,Windows 10,Manufacturing,Medium,owner02@example.com
+AST-0204,wor-ath-0204,Workstation,Windows 11,R&D,Medium,owner02@example.com
+AST-0205,wor-bru-0205,Workstation,Windows 10,R&D,Medium,owner34@example.com
+AST-0206,ser-ath-0206,Server,Ubuntu 22.04,Corporate IT,Low,owner33@example.com
+AST-0207,dat-ath-0207,Database,SQL Server 2019,Supply Chain,High,owner40@example.com
+AST-0208,ser-bru-0208,Server,Ubuntu 22.04,Manufacturing,Critical,owner31@example.com
+AST-0209,clo-nyc-0209,Cloud Instance,Windows Server 2022,Manufacturing,Medium,owner29@example.com
+AST-0210,ser-ath-0210,Server,RHEL 8,Supply Chain,High,owner09@example.com
+AST-0211,net-bru-0211,Network Device,FortiOS,Supply Chain,Medium,owner30@example.com
+AST-0212,dat-nyc-0212,Database,Oracle 19c,Manufacturing,Low,owner36@example.com
+AST-0213,web-thes-0213,Web Application,,Corporate IT,Low,owner27@example.com
+AST-0214,net-nyc-0214,Network Device,FortiOS,Corporate IT,Medium,Unassigned
+AST-0215,clo-bru-0215,Cloud Instance,Windows Server 2022,Commercial,Medium,owner10@example.com
+AST-0216,web-nyc-0216,Web Application,,Manufacturing,Low,owner06@example.com
+AST-0217,clo-ath-0217,Cloud Instance,Windows Server 2022,Commercial,Low,owner36@example.com
+AST-0218,ser-bru-0218,Server,Windows Server 2019,Corporate IT,Medium,owner28@example.com
+AST-0219,web-ath-0219,Web Application,,Supply Chain,High,owner07@example.com
+AST-0220,dat-thes-0220,Database,Oracle 19c,Corporate IT,High,owner07@example.com
+AST-0221,net-bru-0221,Network Device,Cisco IOS,Commercial,Medium,owner28@example.com
+AST-0222,dat-ath-0222,Database,PostgreSQL 14,Commercial,Critical,owner18@example.com
+AST-0223,web-bru-0223,Web Application,,Commercial,Critical,owner10@example.com
+AST-0224,dat-nyc-0224,Database,Oracle 19c,R&D,Medium,owner02@example.com
+AST-0225,ser-thes-0225,Server,Ubuntu 22.04,Corporate IT,Medium,owner11@example.com
+AST-0226,net-bru-0226,Network Device,Junos,Commercial,Low,owner37@example.com
+AST-0227,dat-ath-0227,Database,Oracle 19c,R&D,High,owner40@example.com
+AST-0228,ser-ath-0228,Server,RHEL 8,Corporate IT,Medium,owner32@example.com
+AST-0229,dat-nyc-0229,Database,SQL Server 2019,Commercial,High,owner33@example.com
+AST-0230,ser-bru-0230,Server,Ubuntu 22.04,Manufacturing,High,owner38@example.com
+AST-0231,clo-bru-0231,Cloud Instance,Amazon Linux 2,R&D,Medium,owner39@example.com
+AST-0232,ser-ath-0232,Server,Windows Server 2022,Commercial,Low,owner09@example.com
+AST-0233,net-bru-0233,Network Device,FortiOS,Manufacturing,Critical,owner28@example.com
+AST-0234,wor-thes-0234,Workstation,Windows 11,Supply Chain,Medium,owner33@example.com
+AST-0235,dat-bru-0235,Database,Oracle 19c,Corporate IT,Low,owner03@example.com
+AST-0236,clo-ath-0236,Cloud Instance,Ubuntu 22.04,Manufacturing,Low,owner37@example.com
+AST-0237,clo-nyc-0237,Cloud Instance,Windows Server 2022,Corporate IT,High,owner26@example.com
+AST-0238,ser-bru-0238,Server,Windows Server 2022,Supply Chain,Medium,owner24@example.com
+AST-0239,ser-nyc-0239,Server,Windows Server 2019,R&D,Medium,owner26@example.com
+AST-0240,dat-ath-0240,Database,SQL Server 2019,Commercial,Medium,owner15@example.com
+AST-0241,net-thes-0241,Network Device,Cisco IOS,Supply Chain,Medium,owner34@example.com
+AST-0242,dat-thes-0242,Database,SQL Server 2019,Commercial,Medium,owner10@example.com
+AST-0243,wor-ath-0243,Workstation,Windows 10,Commercial,High,owner39@example.com
+AST-0244,wor-ath-0244,Workstation,Windows 10,Corporate IT,Medium,owner37@example.com
+AST-0245,dat-nyc-0245,Database,PostgreSQL 14,Supply Chain,Medium,owner40@example.com
+AST-0246,net-bru-0246,Network Device,Cisco IOS,Corporate IT,Critical,owner29@example.com
+AST-0247,web-bru-0247,Web Application,,Supply Chain,Critical,owner33@example.com
+AST-0248,ser-bru-0248,Server,Ubuntu 22.04,Corporate IT,Critical,owner24@example.com
+AST-0249,net-ath-0249,Network Device,Junos,Manufacturing,Medium,owner33@example.com
+AST-0250,clo-nyc-0250,Cloud Instance,Windows Server 2022,Supply Chain,Low,owner03@example.com
+AST-0251,clo-thes-0251,Cloud Instance,Ubuntu 22.04,Supply Chain,Medium,owner10@example.com
+AST-0252,ser-nyc-0252,Server,Windows Server 2019,Commercial,Low,owner06@example.com
+AST-0253,dat-thes-0253,Database,Oracle 19c,R&D,Medium,owner29@example.com
+AST-0254,dat-thes-0254,Database,SQL Server 2019,Commercial,Low,owner25@example.com
+AST-0255,clo-bru-0255,Cloud Instance,Windows Server 2022,Supply Chain,Critical,owner22@example.com
+AST-0256,ser-bru-0256,Server,Windows Server 2019,Supply Chain,Medium,owner19@example.com
+AST-0257,net-thes-0257,Network Device,FortiOS,Manufacturing,Medium,owner10@example.com
+AST-0258,net-bru-0258,Network Device,Junos,Corporate IT,High,owner06@example.com
+AST-0259,net-nyc-0259,Network Device,Junos,Commercial,Low,owner34@example.com
+AST-0260,ser-nyc-0260,Server,RHEL 8,Manufacturing,Medium,owner12@example.com
+AST-0261,wor-bru-0261,Workstation,Windows 11,R&D,High,owner09@example.com
+AST-0262,wor-ath-0262,Workstation,Windows 11,Manufacturing,Medium,owner35@example.com
+AST-0263,web-ath-0263,Web Application,,Supply Chain,High,owner25@example.com
+AST-0264,wor-thes-0264,Workstation,Windows 10,Supply Chain,Low,owner11@example.com
+AST-0265,web-nyc-0265,Web Application,,Corporate IT,Medium,owner16@example.com
+AST-0266,clo-bru-0266,Cloud Instance,Windows Server 2022,Corporate IT,High,owner16@example.com
+AST-0267,net-nyc-0267,Network Device,Cisco IOS,Commercial,Medium,owner37@example.com
+AST-0268,clo-nyc-0268,Cloud Instance,Ubuntu 22.04,Corporate IT,Medium,owner27@example.com
+AST-0269,wor-thes-0269,Workstation,macOS 14,R&D,Low,owner04@example.com
+AST-0270,web-nyc-0270,Web Application,,Supply Chain,Low,owner34@example.com
+AST-0271,ser-bru-0271,Server,Windows Server 2019,R&D,High,owner33@example.com
+AST-0272,wor-nyc-0272,Workstation,Windows 10,R&D,Low,owner23@example.com
+AST-0273,ser-nyc-0273,Server,Windows Server 2019,Corporate IT,Medium,owner16@example.com
+AST-0274,clo-ath-0274,Cloud Instance,Ubuntu 22.04,R&D,Critical,owner07@example.com
+AST-0275,web-bru-0275,Web Application,,R&D,Critical,owner31@example.com
+AST-0276,web-thes-0276,Web Application,,Corporate IT,Medium,owner06@example.com
+AST-0277,ser-bru-0277,Server,Windows Server 2022,R&D,Medium,owner39@example.com
+AST-0278,dat-nyc-0278,Database,Oracle 19c,Commercial,High,owner08@example.com
+AST-0279,ser-thes-0279,Server,Ubuntu 22.04,Supply Chain,Medium,owner08@example.com
+AST-0280,clo-ath-0280,Cloud Instance,Windows Server 2022,Supply Chain,Medium,owner10@example.com
+AST-0281,net-nyc-0281,Network Device,Cisco IOS,Supply Chain,Medium,owner37@example.com
+AST-0282,clo-thes-0282,Cloud Instance,Windows Server 2022,Manufacturing,Medium,owner24@example.com
+AST-0283,ser-ath-0283,Server,Ubuntu 22.04,Corporate IT,Critical,owner25@example.com
+AST-0284,net-bru-0284,Network Device,Junos,Manufacturing,Medium,owner05@example.com
+AST-0285,net-thes-0285,Network Device,Junos,Manufacturing,Low,owner22@example.com
+AST-0286,wor-ath-0286,Workstation,Windows 11,Supply Chain,High,owner12@example.com
+AST-0287,web-nyc-0287,Web Application,,R&D,Low,owner05@example.com
+AST-0288,web-nyc-0288,Web Application,,Commercial,High,owner13@example.com
+AST-0289,ser-bru-0289,Server,RHEL 8,Supply Chain,Medium,owner35@example.com
+AST-0290,clo-bru-0290,Cloud Instance,Amazon Linux 2,R&D,High,owner04@example.com
+AST-0291,web-bru-0291,Web Application,,Manufacturing,Low,owner28@example.com
+AST-0292,clo-nyc-0292,Cloud Instance,Ubuntu 22.04,Commercial,Low,owner32@example.com
+AST-0293,web-nyc-0293,Web Application,,Supply Chain,High,owner06@example.com
+AST-0294,web-nyc-0294,Web Application,,Corporate IT,Medium,owner12@example.com
+AST-0295,dat-bru-0295,Database,SQL Server 2019,Manufacturing,Critical,owner19@example.com
+AST-0296,net-nyc-0296,Network Device,Junos,Corporate IT,High,owner29@example.com
+AST-0297,net-nyc-0297,Network Device,Cisco IOS,Commercial,Medium,owner28@example.com
+AST-0298,net-ath-0298,Network Device,Cisco IOS,Corporate IT,Medium,owner11@example.com
+AST-0299,ser-thes-0299,Server,Ubuntu 22.04,Manufacturing,High,owner16@example.com
+AST-0300,web-bru-0300,Web Application,,Corporate IT,Low,owner03@example.com
+UNKNOWN,unknown,Unknown,Unknown,Unknown,Unknown,Unassigned

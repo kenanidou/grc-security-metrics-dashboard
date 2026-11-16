@@ -1,0 +1,9 @@
+run_date,table,rule,records_affected,action
+2026-11-01,assets,Inconsistent values in 'business_unit',6,Mapped to standard list
+2026-11-01,assets,Asset without owner,8,Owner set to 'Unassigned' (flag for follow-up)
+2026-11-01,vulnerabilities,Duplicate vuln_id (repeated scanner export),25,Removed duplicates
+2026-11-01,vulnerabilities,Inconsistent values in 'severity',15,Mapped to standard list
+2026-11-01,vulnerabilities,Missing severity,12,Derived from CVSS score
+2026-11-01,vulnerabilities,Remediated before discovered,6,"Remediation date cleared, record re-opened for review"
+2026-11-01,vulnerabilities,Reference to unknown asset_id,5,"Kept, asset_id set to 'UNKNOWN' (inventory gap)"
+2026-11-01,exceptions,Missing risk rating,3,Inherited from linked vulnerability severity

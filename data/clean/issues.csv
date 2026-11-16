@@ -1,0 +1,141 @@
+issue_id,source,control_ref,business_unit,severity,opened_date,due_date,closed_date,status,is_open,is_overdue,age_days,days_to_close
+ISS-0001,Regulatory Inspection,A.8.5,R&D,Medium,2026-08-05,2026-12-03,,Open,True,False,88.0,
+ISS-0002,Penetration Test,A.8.9,Supply Chain,Low,2025-11-18,2026-05-17,,In Remediation,True,True,348.0,
+ISS-0003,Internal Audit,A.8.24,R&D,Low,2026-09-03,2027-03-02,,In Remediation,True,False,59.0,
+ISS-0004,Penetration Test,A.5.30,Manufacturing,Low,2026-04-22,2026-10-19,,Open,True,True,193.0,
+ISS-0005,Self-Assessment,A.5.12,Corporate IT,Medium,2026-06-20,2026-10-18,,Open,True,True,134.0,
+ISS-0006,Self-Assessment,A.8.16,Corporate IT,Medium,2026-01-31,2026-05-31,2026-06-29,Closed,False,False,,149.0
+ISS-0007,Self-Assessment,A.8.16,Manufacturing,High,2026-10-03,2026-12-02,,Open,True,False,29.0,
+ISS-0008,Self-Assessment,A.5.30,Corporate IT,Medium,2026-10-06,2027-02-03,,In Remediation,True,False,26.0,
+ISS-0009,Self-Assessment,A.8.2,R&D,Medium,2026-09-16,2027-01-14,,In Remediation,True,False,46.0,
+ISS-0010,Penetration Test,A.5.30,Commercial,Medium,2026-02-09,2026-06-09,2026-02-28,Closed,False,False,,19.0
+ISS-0011,Penetration Test,A.8.9,Commercial,Medium,2025-11-01,2026-03-01,2025-12-28,Closed,False,False,,57.0
+ISS-0012,Penetration Test,A.8.15,Corporate IT,High,2026-03-18,2026-05-17,,In Remediation,True,True,228.0,
+ISS-0013,Self-Assessment,A.5.9,Manufacturing,Medium,2026-04-19,2026-08-17,,Open,True,True,196.0,
+ISS-0014,Regulatory Inspection,A.8.13,Commercial,Medium,2026-08-05,2026-12-03,,Open,True,False,88.0,
+ISS-0015,Internal Audit,A.8.15,Supply Chain,Low,2026-05-21,2026-11-17,2026-09-08,Closed,False,False,,110.0
+ISS-0016,Penetration Test,A.5.1,Commercial,Medium,2026-09-23,2027-01-21,,In Remediation,True,False,39.0,
+ISS-0017,Internal Audit,A.5.1,Manufacturing,Low,2026-02-22,2026-08-21,,In Remediation,True,True,252.0,
+ISS-0018,Incident Review,A.8.5,Supply Chain,Medium,2026-03-14,2026-07-12,2026-09-14,Closed,False,False,,184.0
+ISS-0019,Self-Assessment,A.5.1,R&D,Low,2026-07-06,2027-01-02,2026-10-11,Closed,False,False,,97.0
+ISS-0020,Internal Audit,A.5.29,Supply Chain,Medium,2026-08-29,2026-12-27,,In Remediation,True,False,64.0,
+ISS-0021,Self-Assessment,A.8.15,Manufacturing,High,2026-07-17,2026-09-15,,In Remediation,True,True,107.0,
+ISS-0022,Self-Assessment,A.5.9,Supply Chain,Medium,2026-05-17,2026-09-14,,In Remediation,True,True,168.0,
+ISS-0023,Internal Audit,A.8.7,Commercial,Low,2026-10-15,2027-04-13,,Open,True,False,17.0,
+ISS-0024,Internal Audit,A.5.17,Corporate IT,Low,2026-07-21,2027-01-17,,In Remediation,True,False,103.0,
+ISS-0025,Self-Assessment,A.8.9,Commercial,High,2026-02-10,2026-04-11,2026-08-19,Closed,False,False,,190.0
+ISS-0026,Internal Audit,A.8.24,Manufacturing,Low,2025-12-15,2026-06-13,,In Remediation,True,True,321.0,
+ISS-0027,Internal Audit,A.8.7,R&D,Medium,2025-12-26,2026-04-25,2026-03-29,Closed,False,False,,93.0
+ISS-0028,Self-Assessment,A.5.29,Manufacturing,Medium,2026-02-18,2026-06-18,,Open,True,True,256.0,
+ISS-0029,Internal Audit,A.5.31,Commercial,Low,2026-06-18,2026-12-15,,Open,True,False,136.0,
+ISS-0030,Internal Audit,A.5.15,Manufacturing,Medium,2026-09-26,2027-01-24,,In Remediation,True,False,36.0,
+ISS-0031,Incident Review,A.5.17,Supply Chain,High,2026-05-16,2026-07-15,,In Remediation,True,True,169.0,
+ISS-0032,Internal Audit,A.5.26,Manufacturing,Medium,2026-09-06,2027-01-04,,In Remediation,True,False,56.0,
+ISS-0033,Self-Assessment,A.8.15,Corporate IT,Medium,2026-03-01,2026-06-29,,Open,True,True,245.0,
+ISS-0034,Self-Assessment,A.6.3,Supply Chain,Low,2026-04-19,2026-10-16,2026-08-16,Closed,False,False,,119.0
+ISS-0035,Internal Audit,A.8.5,R&D,Medium,2026-06-19,2026-10-17,2026-09-08,Closed,False,False,,81.0
+ISS-0036,Regulatory Inspection,A.8.13,Supply Chain,Medium,2026-04-22,2026-08-20,,In Remediation,True,True,193.0,
+ISS-0037,Penetration Test,A.6.3,Supply Chain,Medium,2026-06-05,2026-10-03,,In Remediation,True,True,149.0,
+ISS-0038,Incident Review,A.5.15,Corporate IT,High,2026-01-05,2026-03-06,2026-06-21,Closed,False,False,,167.0
+ISS-0039,Regulatory Inspection,A.5.12,R&D,Low,2025-11-14,2026-05-13,2025-11-25,Closed,False,False,,11.0
+ISS-0040,Self-Assessment,A.8.9,Manufacturing,Low,2026-05-10,2026-11-06,,Open,True,False,175.0,
+ISS-0041,Regulatory Inspection,A.5.15,R&D,High,2025-12-30,2026-02-28,,Open,True,True,306.0,
+ISS-0042,Penetration Test,A.8.8,Supply Chain,Medium,2026-07-05,2026-11-02,2026-09-05,Closed,False,False,,62.0
+ISS-0043,Internal Audit,A.5.29,Supply Chain,Medium,2026-10-16,2027-02-13,,In Remediation,True,False,16.0,
+ISS-0044,Self-Assessment,A.5.26,R&D,Medium,2026-09-14,2027-01-12,,In Remediation,True,False,48.0,
+ISS-0045,Penetration Test,A.8.24,Corporate IT,Medium,2026-09-23,2027-01-21,,Open,True,False,39.0,
+ISS-0046,Incident Review,A.8.5,Commercial,Medium,2026-01-06,2026-05-06,2026-05-27,Closed,False,False,,141.0
+ISS-0047,Penetration Test,A.5.17,R&D,Medium,2025-12-06,2026-04-05,2026-01-29,Closed,False,False,,54.0
+ISS-0048,Internal Audit,A.5.9,Commercial,High,2025-12-03,2026-02-01,2026-05-17,Closed,False,False,,165.0
+ISS-0049,Regulatory Inspection,A.5.29,R&D,Medium,2025-12-01,2026-03-31,2025-12-13,Closed,False,False,,12.0
+ISS-0050,Self-Assessment,A.8.15,Manufacturing,Medium,2026-07-09,2026-11-06,,Open,True,False,115.0,
+ISS-0051,Penetration Test,A.8.5,R&D,Low,2026-05-26,2026-11-22,2026-06-27,Closed,False,False,,32.0
+ISS-0052,Penetration Test,A.8.15,Supply Chain,Low,2026-07-04,2026-12-31,2026-09-18,Closed,False,False,,76.0
+ISS-0053,Regulatory Inspection,A.5.12,Commercial,Medium,2026-07-06,2026-11-03,2026-08-24,Closed,False,False,,49.0
+ISS-0054,Penetration Test,A.8.16,Supply Chain,High,2025-12-17,2026-02-15,2026-06-16,Closed,False,False,,181.0
+ISS-0055,Regulatory Inspection,A.5.24,Manufacturing,High,2025-12-23,2026-02-21,2026-05-22,Closed,False,False,,150.0
+ISS-0056,Internal Audit,A.5.24,R&D,Medium,2026-01-29,2026-05-29,2026-08-02,Closed,False,False,,185.0
+ISS-0057,Incident Review,A.5.9,Commercial,Low,2026-10-02,2027-03-31,,Open,True,False,30.0,
+ISS-0058,Incident Review,A.8.7,Corporate IT,High,2026-08-23,2026-10-22,,Open,True,True,70.0,
+ISS-0059,Penetration Test,A.5.1,Manufacturing,Low,2026-06-07,2026-12-04,,In Remediation,True,False,147.0,
+ISS-0060,Self-Assessment,A.8.15,R&D,High,2026-08-09,2026-10-08,2026-09-30,Closed,False,False,,52.0
+ISS-0061,Incident Review,A.8.13,Corporate IT,Low,2026-08-04,2027-01-31,,Open,True,False,89.0,
+ISS-0062,Regulatory Inspection,A.8.9,R&D,Medium,2026-09-27,2027-01-25,,In Remediation,True,False,35.0,
+ISS-0063,Regulatory Inspection,A.5.1,Corporate IT,Medium,2025-11-11,2026-03-11,2026-01-26,Closed,False,False,,76.0
+ISS-0064,Penetration Test,A.5.1,Corporate IT,Medium,2025-12-30,2026-04-29,2026-05-03,Closed,False,False,,124.0
+ISS-0065,Internal Audit,A.6.3,R&D,High,2026-08-20,2026-10-19,2026-09-16,Closed,False,False,,27.0
+ISS-0066,Incident Review,A.5.17,R&D,Medium,2026-09-02,2026-12-31,,In Remediation,True,False,60.0,
+ISS-0067,Incident Review,A.5.29,R&D,Medium,2026-04-17,2026-08-15,2026-09-16,Closed,False,False,,152.0
+ISS-0068,Penetration Test,A.5.17,R&D,High,2025-11-15,2026-01-14,,In Remediation,True,True,351.0,
+ISS-0069,Internal Audit,A.5.12,Commercial,Medium,2025-11-28,2026-03-28,2026-01-21,Closed,False,False,,54.0
+ISS-0070,Incident Review,A.5.24,Supply Chain,Low,2026-07-09,2027-01-05,,In Remediation,True,False,115.0,
+ISS-0071,Penetration Test,A.8.15,Supply Chain,Medium,2026-02-16,2026-06-16,,In Remediation,True,True,258.0,
+ISS-0072,Penetration Test,A.5.12,R&D,High,2026-09-23,2026-11-22,2026-10-18,Closed,False,False,,25.0
+ISS-0073,Penetration Test,A.5.1,Supply Chain,High,2026-04-04,2026-06-03,2026-07-22,Closed,False,False,,109.0
+ISS-0074,Incident Review,A.5.1,Manufacturing,Medium,2026-06-24,2026-10-22,2026-08-14,Closed,False,False,,51.0
+ISS-0075,Internal Audit,A.5.1,Commercial,High,2026-01-16,2026-03-17,,Open,True,True,289.0,
+ISS-0076,Regulatory Inspection,A.5.29,R&D,High,2026-02-10,2026-04-11,2026-08-06,Closed,False,False,,177.0
+ISS-0077,Self-Assessment,A.5.26,Manufacturing,High,2026-02-09,2026-04-10,,Open,True,True,265.0,
+ISS-0078,Internal Audit,A.5.12,R&D,Medium,2026-07-14,2026-11-11,2026-08-22,Closed,False,False,,39.0
+ISS-0079,Regulatory Inspection,A.5.24,Corporate IT,Medium,2025-12-30,2026-04-29,2026-02-08,Closed,False,False,,40.0
+ISS-0080,Penetration Test,A.5.15,Manufacturing,Medium,2026-10-05,2027-02-02,,Open,True,False,27.0,
+ISS-0081,Internal Audit,A.5.31,Manufacturing,Medium,2025-12-24,2026-04-23,2026-02-18,Closed,False,False,,56.0
+ISS-0082,Incident Review,A.5.24,R&D,Medium,2026-04-25,2026-08-23,,Open,True,True,190.0,
+ISS-0083,Internal Audit,A.8.16,Commercial,Low,2026-02-18,2026-08-17,2026-07-24,Closed,False,False,,156.0
+ISS-0084,Self-Assessment,A.8.24,Supply Chain,High,2025-11-07,2026-01-06,,Open,True,True,359.0,
+ISS-0085,Internal Audit,A.5.30,Corporate IT,High,2026-03-25,2026-05-24,2026-04-27,Closed,False,False,,33.0
+ISS-0086,Regulatory Inspection,A.5.1,Commercial,Medium,2026-01-11,2026-05-11,,Open,True,True,294.0,
+ISS-0087,Regulatory Inspection,A.5.1,R&D,High,2026-03-27,2026-05-26,2026-04-10,Closed,False,False,,14.0
+ISS-0088,Self-Assessment,A.8.16,Manufacturing,Medium,2026-05-07,2026-09-04,,Open,True,True,178.0,
+ISS-0089,Self-Assessment,A.8.15,R&D,Low,2026-02-18,2026-08-17,,In Remediation,True,True,256.0,
+ISS-0090,Internal Audit,A.8.13,R&D,Low,2025-12-20,2026-06-18,2026-04-25,Closed,False,False,,126.0
+ISS-0091,Self-Assessment,A.8.24,R&D,Medium,2026-05-03,2026-08-31,2026-09-28,Closed,False,False,,148.0
+ISS-0092,Regulatory Inspection,A.8.2,Manufacturing,High,2025-11-14,2026-01-13,2025-12-13,Closed,False,False,,29.0
+ISS-0093,Self-Assessment,A.8.15,Supply Chain,High,2026-07-05,2026-09-03,,Open,True,True,119.0,
+ISS-0094,Internal Audit,A.5.31,Manufacturing,Medium,2026-08-13,2026-12-11,2026-09-07,Closed,False,False,,25.0
+ISS-0095,Internal Audit,A.8.9,R&D,Medium,2025-12-14,2026-04-13,2026-05-24,Closed,False,False,,161.0
+ISS-0096,Self-Assessment,A.8.13,R&D,High,2026-03-25,2026-05-24,2026-05-01,Closed,False,False,,37.0
+ISS-0097,Internal Audit,A.8.24,Manufacturing,Low,2026-10-17,2027-04-15,,Open,True,False,15.0,
+ISS-0098,Incident Review,A.8.16,Corporate IT,High,2025-11-09,2026-01-08,,In Remediation,True,True,357.0,
+ISS-0099,Self-Assessment,A.5.1,Commercial,Medium,2026-04-07,2026-08-05,,In Remediation,True,True,208.0,
+ISS-0100,Internal Audit,A.5.17,R&D,Medium,2026-01-28,2026-05-28,,In Remediation,True,True,277.0,
+ISS-0101,Internal Audit,A.5.17,Supply Chain,Medium,2025-11-02,2026-03-02,2026-04-03,Closed,False,False,,152.0
+ISS-0102,Penetration Test,A.5.30,R&D,High,2026-02-15,2026-04-16,2026-09-01,Closed,False,False,,198.0
+ISS-0103,Self-Assessment,A.8.8,Supply Chain,High,2026-05-24,2026-07-23,2026-06-26,Closed,False,False,,33.0
+ISS-0104,Penetration Test,A.5.24,Manufacturing,High,2025-11-07,2026-01-06,2026-05-22,Closed,False,False,,196.0
+ISS-0105,Internal Audit,A.6.3,Manufacturing,High,2025-11-16,2026-01-15,,In Remediation,True,True,350.0,
+ISS-0106,Internal Audit,A.5.12,Corporate IT,High,2026-07-19,2026-09-17,,Open,True,True,105.0,
+ISS-0107,Internal Audit,A.5.29,Commercial,Medium,2025-11-25,2026-03-25,,In Remediation,True,True,341.0,
+ISS-0108,Internal Audit,A.5.9,Supply Chain,Medium,2026-05-25,2026-09-22,,In Remediation,True,True,160.0,
+ISS-0109,Penetration Test,A.5.24,Corporate IT,High,2026-07-31,2026-09-29,,In Remediation,True,True,93.0,
+ISS-0110,Self-Assessment,A.6.3,R&D,Medium,2026-07-13,2026-11-10,2026-08-22,Closed,False,False,,40.0
+ISS-0111,Internal Audit,A.5.24,Commercial,Low,2026-02-11,2026-08-10,,In Remediation,True,True,263.0,
+ISS-0112,Internal Audit,A.5.1,Manufacturing,Low,2026-06-12,2026-12-09,,Open,True,False,142.0,
+ISS-0113,Internal Audit,A.5.12,Commercial,Low,2026-10-25,2027-04-23,,In Remediation,True,False,7.0,
+ISS-0114,Penetration Test,A.5.9,Manufacturing,Medium,2025-12-22,2026-04-21,2026-03-26,Closed,False,False,,94.0
+ISS-0115,Penetration Test,A.5.17,Commercial,Low,2025-11-26,2026-05-25,2026-04-09,Closed,False,False,,134.0
+ISS-0116,Self-Assessment,A.5.30,Manufacturing,High,2026-10-02,2026-12-01,,In Remediation,True,False,30.0,
+ISS-0117,Internal Audit,A.8.5,Manufacturing,Medium,2026-04-11,2026-08-09,2026-10-19,Closed,False,False,,191.0
+ISS-0118,Internal Audit,A.5.31,Corporate IT,Medium,2026-09-08,2027-01-06,,In Remediation,True,False,54.0,
+ISS-0119,Penetration Test,A.5.15,R&D,Low,2026-07-29,2027-01-25,,In Remediation,True,False,95.0,
+ISS-0120,Self-Assessment,A.5.30,Commercial,Medium,2026-10-17,2027-02-14,,Open,True,False,15.0,
+ISS-0121,Internal Audit,A.5.26,Commercial,Medium,2026-05-15,2026-09-12,,Open,True,True,170.0,
+ISS-0122,Regulatory Inspection,A.6.3,Corporate IT,Medium,2026-08-20,2026-12-18,2026-10-28,Closed,False,False,,69.0
+ISS-0123,Penetration Test,A.5.31,Commercial,High,2026-10-19,2026-12-18,,Open,True,False,13.0,
+ISS-0124,Internal Audit,A.8.13,R&D,Low,2026-06-17,2026-12-14,,In Remediation,True,False,137.0,
+ISS-0125,Self-Assessment,A.5.29,Corporate IT,Low,2026-10-05,2027-04-03,,Open,True,False,27.0,
+ISS-0126,Penetration Test,A.5.9,Commercial,High,2026-05-30,2026-07-29,2026-07-19,Closed,False,False,,50.0
+ISS-0127,Penetration Test,A.8.9,Commercial,High,2026-08-07,2026-10-06,,In Remediation,True,True,86.0,
+ISS-0128,Incident Review,A.5.30,Supply Chain,Low,2025-12-28,2026-06-26,2026-04-30,Closed,False,False,,123.0
+ISS-0129,Self-Assessment,A.5.15,Supply Chain,Medium,2026-03-29,2026-07-27,,In Remediation,True,True,217.0,
+ISS-0130,Penetration Test,A.5.24,Commercial,Low,2026-04-05,2026-10-02,2026-05-26,Closed,False,False,,51.0
+ISS-0131,Incident Review,A.8.15,Corporate IT,Medium,2026-02-28,2026-06-28,2026-06-30,Closed,False,False,,122.0
+ISS-0132,Internal Audit,A.5.12,Corporate IT,Low,2026-08-04,2027-01-31,2026-08-20,Closed,False,False,,16.0
+ISS-0133,Regulatory Inspection,A.8.5,R&D,Medium,2026-07-01,2026-10-29,,In Remediation,True,True,123.0,
+ISS-0134,Penetration Test,A.5.15,R&D,Medium,2026-04-03,2026-08-01,2026-05-06,Closed,False,False,,33.0
+ISS-0135,Self-Assessment,A.8.5,Supply Chain,Medium,2026-07-14,2026-11-11,,In Remediation,True,False,110.0,
+ISS-0136,Penetration Test,A.5.1,Corporate IT,Medium,2026-07-17,2026-11-14,,Open,True,False,107.0,
+ISS-0137,Internal Audit,A.5.15,Supply Chain,Medium,2026-08-29,2026-12-27,,In Remediation,True,False,64.0,
+ISS-0138,Penetration Test,A.8.5,Corporate IT,High,2026-06-07,2026-08-06,,In Remediation,True,True,147.0,
+ISS-0139,Self-Assessment,A.8.16,Commercial,Medium,2026-10-20,2027-02-17,,Open,True,False,12.0,
+ISS-0140,Penetration Test,A.8.16,R&D,Low,2026-06-24,2026-12-21,,In Remediation,True,False,130.0,

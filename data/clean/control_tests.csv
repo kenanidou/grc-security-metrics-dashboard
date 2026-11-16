@@ -1,0 +1,81 @@
+test_id,control_ref,control_name,csf_function,framework,business_unit,test_date,test_result,tester,result_score,is_latest_test
+CT-0001,A.5.9,Inventory of information and other associated assets,Identify,ISO/IEC 27001:2022 Annex A,R&D,2025-11-07,Effective,2nd line,1.0,False
+CT-0002,A.5.9,Inventory of information and other associated assets,Identify,ISO/IEC 27001:2022 Annex A,R&D,2026-02-04,Effective,1st line,1.0,False
+CT-0003,A.5.9,Inventory of information and other associated assets,Identify,ISO/IEC 27001:2022 Annex A,R&D,2026-06-21,Effective,Internal Audit,1.0,False
+CT-0004,A.5.9,Inventory of information and other associated assets,Identify,ISO/IEC 27001:2022 Annex A,R&D,2026-08-22,Effective,2nd line,1.0,True
+CT-0005,A.5.12,Classification of information,Identify,ISO/IEC 27001:2022 Annex A,Commercial,2025-12-26,Ineffective,1st line,0.0,False
+CT-0006,A.5.12,Classification of information,Identify,ISO/IEC 27001:2022 Annex A,Commercial,2026-02-24,Partially Effective,Internal Audit,0.5,False
+CT-0007,A.5.12,Classification of information,Identify,ISO/IEC 27001:2022 Annex A,Commercial,2026-06-12,Effective,Internal Audit,1.0,False
+CT-0008,A.5.12,Classification of information,Identify,ISO/IEC 27001:2022 Annex A,Commercial,2026-09-10,Effective,1st line,1.0,True
+CT-0009,A.5.15,Access control,Protect,ISO/IEC 27001:2022 Annex A,Manufacturing,2025-12-13,Effective,2nd line,1.0,False
+CT-0010,A.5.15,Access control,Protect,ISO/IEC 27001:2022 Annex A,Manufacturing,2026-02-18,Effective,2nd line,1.0,False
+CT-0011,A.5.15,Access control,Protect,ISO/IEC 27001:2022 Annex A,Manufacturing,2026-06-24,Effective,Internal Audit,1.0,False
+CT-0012,A.5.15,Access control,Protect,ISO/IEC 27001:2022 Annex A,Manufacturing,2026-09-19,Effective,1st line,1.0,True
+CT-0013,A.5.17,Authentication information,Protect,ISO/IEC 27001:2022 Annex A,R&D,2025-12-17,Effective,1st line,1.0,False
+CT-0014,A.5.17,Authentication information,Protect,ISO/IEC 27001:2022 Annex A,R&D,2026-03-06,Partially Effective,Internal Audit,0.5,False
+CT-0015,A.5.17,Authentication information,Protect,ISO/IEC 27001:2022 Annex A,R&D,2026-05-11,Partially Effective,2nd line,0.5,False
+CT-0016,A.5.17,Authentication information,Protect,ISO/IEC 27001:2022 Annex A,R&D,2026-08-19,Effective,1st line,1.0,True
+CT-0017,A.8.2,Privileged access rights,Protect,ISO/IEC 27001:2022 Annex A,Corporate IT,2025-12-10,Partially Effective,1st line,0.5,False
+CT-0018,A.8.2,Privileged access rights,Protect,ISO/IEC 27001:2022 Annex A,Corporate IT,2026-03-14,Partially Effective,1st line,0.5,False
+CT-0019,A.8.2,Privileged access rights,Protect,ISO/IEC 27001:2022 Annex A,Corporate IT,2026-05-18,Effective,1st line,1.0,False
+CT-0020,A.8.2,Privileged access rights,Protect,ISO/IEC 27001:2022 Annex A,Corporate IT,2026-09-21,Effective,1st line,1.0,True
+CT-0021,A.8.5,Secure authentication,Protect,ISO/IEC 27001:2022 Annex A,R&D,2025-11-14,Ineffective,2nd line,0.0,False
+CT-0022,A.8.5,Secure authentication,Protect,ISO/IEC 27001:2022 Annex A,R&D,2026-02-11,Partially Effective,2nd line,0.5,False
+CT-0023,A.8.5,Secure authentication,Protect,ISO/IEC 27001:2022 Annex A,R&D,2026-06-06,Effective,Internal Audit,1.0,False
+CT-0024,A.8.5,Secure authentication,Protect,ISO/IEC 27001:2022 Annex A,R&D,2026-08-05,Effective,1st line,1.0,True
+CT-0025,A.8.7,Protection against malware,Protect,ISO/IEC 27001:2022 Annex A,R&D,2025-12-22,Effective,1st line,1.0,False
+CT-0026,A.8.7,Protection against malware,Protect,ISO/IEC 27001:2022 Annex A,R&D,2026-03-16,Effective,Internal Audit,1.0,False
+CT-0027,A.8.7,Protection against malware,Protect,ISO/IEC 27001:2022 Annex A,R&D,2026-05-29,Partially Effective,1st line,0.5,False
+CT-0028,A.8.7,Protection against malware,Protect,ISO/IEC 27001:2022 Annex A,R&D,2026-09-01,Effective,1st line,1.0,True
+CT-0029,A.8.9,Configuration management,Protect,ISO/IEC 27001:2022 Annex A,R&D,2025-12-08,Effective,Internal Audit,1.0,False
+CT-0030,A.8.9,Configuration management,Protect,ISO/IEC 27001:2022 Annex A,R&D,2026-02-11,Effective,1st line,1.0,False
+CT-0031,A.8.9,Configuration management,Protect,ISO/IEC 27001:2022 Annex A,R&D,2026-05-25,Effective,1st line,1.0,False
+CT-0032,A.8.9,Configuration management,Protect,ISO/IEC 27001:2022 Annex A,R&D,2026-07-31,Partially Effective,1st line,0.5,True
+CT-0033,A.8.13,Information backup,Protect,ISO/IEC 27001:2022 Annex A,Manufacturing,2025-11-06,Ineffective,Internal Audit,0.0,False
+CT-0034,A.8.13,Information backup,Protect,ISO/IEC 27001:2022 Annex A,Manufacturing,2026-03-19,Effective,2nd line,1.0,False
+CT-0035,A.8.13,Information backup,Protect,ISO/IEC 27001:2022 Annex A,Manufacturing,2026-05-24,Effective,Internal Audit,1.0,False
+CT-0036,A.8.13,Information backup,Protect,ISO/IEC 27001:2022 Annex A,Manufacturing,2026-09-21,Effective,Internal Audit,1.0,True
+CT-0037,A.8.24,Use of cryptography,Protect,ISO/IEC 27001:2022 Annex A,Supply Chain,2025-12-28,Effective,1st line,1.0,False
+CT-0038,A.8.24,Use of cryptography,Protect,ISO/IEC 27001:2022 Annex A,Supply Chain,2026-02-12,Partially Effective,1st line,0.5,False
+CT-0039,A.8.24,Use of cryptography,Protect,ISO/IEC 27001:2022 Annex A,Supply Chain,2026-06-06,Effective,2nd line,1.0,False
+CT-0040,A.8.24,Use of cryptography,Protect,ISO/IEC 27001:2022 Annex A,Supply Chain,2026-08-05,Effective,Internal Audit,1.0,True
+CT-0041,A.6.3,"Information security awareness, education and training",Protect,ISO/IEC 27001:2022 Annex A,Supply Chain,2025-12-30,Effective,Internal Audit,1.0,False
+CT-0042,A.6.3,"Information security awareness, education and training",Protect,ISO/IEC 27001:2022 Annex A,Supply Chain,2026-02-23,Effective,Internal Audit,1.0,False
+CT-0043,A.6.3,"Information security awareness, education and training",Protect,ISO/IEC 27001:2022 Annex A,Supply Chain,2026-06-13,Effective,Internal Audit,1.0,False
+CT-0044,A.6.3,"Information security awareness, education and training",Protect,ISO/IEC 27001:2022 Annex A,Supply Chain,2026-08-16,Partially Effective,Internal Audit,0.5,True
+CT-0045,A.8.15,Logging,Detect,ISO/IEC 27001:2022 Annex A,Manufacturing,2025-12-17,Ineffective,1st line,0.0,False
+CT-0046,A.8.15,Logging,Detect,ISO/IEC 27001:2022 Annex A,Manufacturing,2026-03-27,Effective,1st line,1.0,False
+CT-0047,A.8.15,Logging,Detect,ISO/IEC 27001:2022 Annex A,Manufacturing,2026-05-25,Effective,2nd line,1.0,False
+CT-0048,A.8.15,Logging,Detect,ISO/IEC 27001:2022 Annex A,Manufacturing,2026-08-06,Partially Effective,1st line,0.5,True
+CT-0049,A.8.16,Monitoring activities,Detect,ISO/IEC 27001:2022 Annex A,Commercial,2025-12-09,Effective,1st line,1.0,False
+CT-0050,A.8.16,Monitoring activities,Detect,ISO/IEC 27001:2022 Annex A,Commercial,2026-03-26,Effective,Internal Audit,1.0,False
+CT-0051,A.8.16,Monitoring activities,Detect,ISO/IEC 27001:2022 Annex A,Commercial,2026-05-18,Effective,2nd line,1.0,False
+CT-0052,A.8.16,Monitoring activities,Detect,ISO/IEC 27001:2022 Annex A,Commercial,2026-08-12,Effective,Internal Audit,1.0,True
+CT-0053,A.8.8,Management of technical vulnerabilities,Detect,ISO/IEC 27001:2022 Annex A,Corporate IT,2025-11-22,Partially Effective,Internal Audit,0.5,False
+CT-0054,A.8.8,Management of technical vulnerabilities,Detect,ISO/IEC 27001:2022 Annex A,Corporate IT,2026-02-07,Partially Effective,2nd line,0.5,False
+CT-0055,A.8.8,Management of technical vulnerabilities,Detect,ISO/IEC 27001:2022 Annex A,Corporate IT,2026-05-12,Effective,Internal Audit,1.0,False
+CT-0056,A.8.8,Management of technical vulnerabilities,Detect,ISO/IEC 27001:2022 Annex A,Corporate IT,2026-08-08,Ineffective,Internal Audit,0.0,True
+CT-0057,A.5.24,Incident management planning and preparation,Respond,ISO/IEC 27001:2022 Annex A,Supply Chain,2025-12-03,Effective,1st line,1.0,False
+CT-0058,A.5.24,Incident management planning and preparation,Respond,ISO/IEC 27001:2022 Annex A,Supply Chain,2026-02-27,Effective,2nd line,1.0,False
+CT-0059,A.5.24,Incident management planning and preparation,Respond,ISO/IEC 27001:2022 Annex A,Supply Chain,2026-05-26,Effective,2nd line,1.0,False
+CT-0060,A.5.24,Incident management planning and preparation,Respond,ISO/IEC 27001:2022 Annex A,Supply Chain,2026-09-26,Effective,Internal Audit,1.0,True
+CT-0061,A.5.26,Response to information security incidents,Respond,ISO/IEC 27001:2022 Annex A,Commercial,2025-11-09,Effective,2nd line,1.0,False
+CT-0062,A.5.26,Response to information security incidents,Respond,ISO/IEC 27001:2022 Annex A,Commercial,2026-03-31,Partially Effective,2nd line,0.5,False
+CT-0063,A.5.26,Response to information security incidents,Respond,ISO/IEC 27001:2022 Annex A,Commercial,2026-06-09,Effective,2nd line,1.0,False
+CT-0064,A.5.26,Response to information security incidents,Respond,ISO/IEC 27001:2022 Annex A,Commercial,2026-08-13,Effective,2nd line,1.0,True
+CT-0065,A.5.29,Information security during disruption,Recover,ISO/IEC 27001:2022 Annex A,Corporate IT,2025-11-28,Ineffective,Internal Audit,0.0,False
+CT-0066,A.5.29,Information security during disruption,Recover,ISO/IEC 27001:2022 Annex A,Corporate IT,2026-02-01,Effective,1st line,1.0,False
+CT-0067,A.5.29,Information security during disruption,Recover,ISO/IEC 27001:2022 Annex A,Corporate IT,2026-05-07,Partially Effective,2nd line,0.5,False
+CT-0068,A.5.29,Information security during disruption,Recover,ISO/IEC 27001:2022 Annex A,Corporate IT,2026-09-16,Partially Effective,1st line,0.5,True
+CT-0069,A.5.30,ICT readiness for business continuity,Recover,ISO/IEC 27001:2022 Annex A,R&D,2025-12-26,Ineffective,Internal Audit,0.0,False
+CT-0070,A.5.30,ICT readiness for business continuity,Recover,ISO/IEC 27001:2022 Annex A,R&D,2026-03-27,Effective,2nd line,1.0,False
+CT-0071,A.5.30,ICT readiness for business continuity,Recover,ISO/IEC 27001:2022 Annex A,R&D,2026-05-25,Partially Effective,1st line,0.5,False
+CT-0072,A.5.30,ICT readiness for business continuity,Recover,ISO/IEC 27001:2022 Annex A,R&D,2026-09-19,Partially Effective,1st line,0.5,True
+CT-0073,A.5.1,Policies for information security,Govern,ISO/IEC 27001:2022 Annex A,Corporate IT,2025-11-10,Partially Effective,1st line,0.5,False
+CT-0074,A.5.1,Policies for information security,Govern,ISO/IEC 27001:2022 Annex A,Corporate IT,2026-02-19,Ineffective,1st line,0.0,False
+CT-0075,A.5.1,Policies for information security,Govern,ISO/IEC 27001:2022 Annex A,Corporate IT,2026-05-06,Ineffective,1st line,0.0,False
+CT-0076,A.5.1,Policies for information security,Govern,ISO/IEC 27001:2022 Annex A,Corporate IT,2026-08-14,Partially Effective,2nd line,0.5,True
+CT-0077,A.5.31,"Legal, statutory, regulatory and contractual requirements",Govern,ISO/IEC 27001:2022 Annex A,Manufacturing,2025-12-23,Effective,Internal Audit,1.0,False
+CT-0078,A.5.31,"Legal, statutory, regulatory and contractual requirements",Govern,ISO/IEC 27001:2022 Annex A,Manufacturing,2026-02-10,Effective,1st line,1.0,False
+CT-0079,A.5.31,"Legal, statutory, regulatory and contractual requirements",Govern,ISO/IEC 27001:2022 Annex A,Manufacturing,2026-05-31,Effective,2nd line,1.0,False
+CT-0080,A.5.31,"Legal, statutory, regulatory and contractual requirements",Govern,ISO/IEC 27001:2022 Annex A,Manufacturing,2026-08-25,Effective,Internal Audit,1.0,True

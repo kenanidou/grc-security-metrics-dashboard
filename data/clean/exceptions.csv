@@ -1,0 +1,71 @@
+exception_id,vuln_id,business_unit,risk_rating,justification,requested_date,approval_status,expiry_date,approver,is_active,is_expired,days_to_expiry,expiring_30d
+EXC-0001,VUL-01739,Commercial,Medium,Compensating control in place,2026-01-13,Approved,2027-01-13,Deputy CISO,True,False,73.0,False
+EXC-0002,VUL-01154,Supply Chain,Critical,"Legacy system, vendor patch unavailable",2025-11-21,Approved,2026-05-20,Deputy CISO,False,True,,False
+EXC-0003,VUL-00024,Commercial,Medium,Business-critical uptime window,2026-06-18,Approved,2026-12-15,BU Risk Owner,True,False,44.0,False
+EXC-0004,VUL-00251,Supply Chain,Critical,Business-critical uptime window,2026-10-08,Rejected,,,False,False,,False
+EXC-0005,VUL-00178,Commercial,High,"Legacy system, vendor patch unavailable",2025-11-24,Approved,2026-11-24,CISO,True,False,23.0,True
+EXC-0006,VUL-00144,Manufacturing,Critical,"Legacy system, vendor patch unavailable",2025-12-23,Approved,2026-06-21,Deputy CISO,False,True,,False
+EXC-0007,VUL-00640,Manufacturing,Medium,Compensating control in place,2026-05-08,Rejected,,,False,False,,False
+EXC-0008,VUL-01104,Corporate IT,Medium,Compensating control in place,2026-08-21,Approved,2026-11-19,Deputy CISO,True,False,18.0,True
+EXC-0009,VUL-00299,Supply Chain,Medium,Planned decommission,2026-01-24,Approved,2027-01-24,Deputy CISO,True,False,84.0,False
+EXC-0010,VUL-00833,Commercial,High,Planned decommission,2026-08-21,Approved,2027-08-21,CISO,True,False,293.0,False
+EXC-0011,VUL-01664,Commercial,Medium,Planned decommission,2026-07-26,Approved,2027-07-26,Deputy CISO,True,False,267.0,False
+EXC-0012,VUL-01782,Supply Chain,High,"Legacy system, vendor patch unavailable",2026-08-19,Approved,2027-02-15,BU Risk Owner,True,False,106.0,False
+EXC-0013,VUL-01408,Supply Chain,High,Business-critical uptime window,2025-11-11,Approved,2026-05-10,CISO,False,True,,False
+EXC-0014,VUL-00439,Commercial,Critical,Business-critical uptime window,2026-02-06,Approved,2026-05-07,BU Risk Owner,False,True,,False
+EXC-0015,VUL-01202,Corporate IT,Medium,"Legacy system, vendor patch unavailable",2026-05-26,Approved,2026-08-24,Deputy CISO,False,True,,False
+EXC-0016,VUL-00463,Manufacturing,Medium,Planned decommission,2026-07-01,Approved,2027-07-01,BU Risk Owner,True,False,242.0,False
+EXC-0017,VUL-00457,R&D,Medium,Compensating control in place,2025-11-16,Approved,2026-02-14,Deputy CISO,False,True,,False
+EXC-0018,VUL-01218,Commercial,Critical,Compensating control in place,2026-02-25,Approved,2026-05-26,Deputy CISO,False,True,,False
+EXC-0019,VUL-01069,R&D,Medium,"Legacy system, vendor patch unavailable",2026-03-05,Rejected,,,False,False,,False
+EXC-0020,VUL-01502,Manufacturing,Medium,Business-critical uptime window,2025-11-02,Rejected,,,False,False,,False
+EXC-0021,VUL-00299,Corporate IT,Medium,Compensating control in place,2026-04-24,Approved,2026-07-23,Deputy CISO,False,True,,False
+EXC-0022,VUL-01020,Commercial,Medium,"Legacy system, vendor patch unavailable",2026-10-13,Approved,2027-10-13,Deputy CISO,True,False,346.0,False
+EXC-0023,VUL-01673,Corporate IT,Medium,"Legacy system, vendor patch unavailable",2026-05-15,Approved,2026-11-11,CISO,True,False,10.0,True
+EXC-0024,VUL-00883,Manufacturing,High,Business-critical uptime window,2025-11-08,Approved,2026-05-07,CISO,False,True,,False
+EXC-0025,VUL-00160,Manufacturing,High,Compensating control in place,2026-07-29,Approved,2027-01-25,CISO,True,False,85.0,False
+EXC-0026,VUL-01037,R&D,High,Compensating control in place,2026-03-17,Approved,2026-06-15,Deputy CISO,False,True,,False
+EXC-0027,VUL-01444,Manufacturing,High,Business-critical uptime window,2026-03-20,Approved,2026-06-18,BU Risk Owner,False,True,,False
+EXC-0028,VUL-01202,Supply Chain,Medium,Planned decommission,2026-02-23,Approved,2027-02-23,Deputy CISO,True,False,114.0,False
+EXC-0029,VUL-00083,Manufacturing,Critical,"Legacy system, vendor patch unavailable",2026-05-20,Pending,,,False,False,,False
+EXC-0030,VUL-00982,Manufacturing,Medium,Business-critical uptime window,2026-05-18,Approved,2026-08-16,Deputy CISO,False,True,,False
+EXC-0031,VUL-00504,Manufacturing,High,"Legacy system, vendor patch unavailable",2026-04-21,Approved,2026-07-20,BU Risk Owner,False,True,,False
+EXC-0032,VUL-01773,Commercial,Medium,"Legacy system, vendor patch unavailable",2026-07-29,Approved,2027-07-29,BU Risk Owner,True,False,270.0,False
+EXC-0033,VUL-00064,Commercial,High,"Legacy system, vendor patch unavailable",2026-09-19,Approved,2027-09-19,BU Risk Owner,True,False,322.0,False
+EXC-0034,VUL-00351,Supply Chain,High,Business-critical uptime window,2026-05-28,Approved,2027-05-28,Deputy CISO,True,False,208.0,False
+EXC-0035,VUL-00949,R&D,Critical,"Legacy system, vendor patch unavailable",2026-06-15,Approved,2027-06-15,Deputy CISO,True,False,226.0,False
+EXC-0036,VUL-01006,Commercial,Critical,"Legacy system, vendor patch unavailable",2026-05-08,Approved,2026-11-04,BU Risk Owner,True,False,3.0,True
+EXC-0037,VUL-00266,Corporate IT,Medium,Business-critical uptime window,2026-06-14,Approved,2026-12-11,CISO,True,False,40.0,False
+EXC-0038,VUL-01259,Corporate IT,Medium,Planned decommission,2026-06-18,Pending,,,False,False,,False
+EXC-0039,VUL-00432,Supply Chain,Medium,"Legacy system, vendor patch unavailable",2026-09-02,Approved,2026-12-01,Deputy CISO,True,False,30.0,True
+EXC-0040,VUL-00937,Corporate IT,High,"Legacy system, vendor patch unavailable",2026-07-10,Approved,2027-01-06,CISO,True,False,66.0,False
+EXC-0041,VUL-01613,Manufacturing,Medium,Compensating control in place,2026-08-17,Approved,2027-08-17,CISO,True,False,289.0,False
+EXC-0042,VUL-00251,Supply Chain,Critical,Compensating control in place,2026-05-23,Pending,,,False,False,,False
+EXC-0043,VUL-01778,R&D,High,"Legacy system, vendor patch unavailable",2026-02-08,Approved,2026-08-07,CISO,False,True,,False
+EXC-0044,VUL-01484,R&D,High,Compensating control in place,2026-04-10,Approved,2026-07-09,BU Risk Owner,False,True,,False
+EXC-0045,VUL-00585,Corporate IT,High,"Legacy system, vendor patch unavailable",2025-12-26,Approved,2026-03-26,CISO,False,True,,False
+EXC-0046,VUL-00381,Supply Chain,High,Business-critical uptime window,2026-01-24,Approved,2026-04-24,CISO,False,True,,False
+EXC-0047,VUL-00340,R&D,High,Compensating control in place,2026-05-14,Approved,2026-11-10,CISO,True,False,9.0,True
+EXC-0048,VUL-01087,Commercial,Critical,Planned decommission,2026-06-28,Approved,2027-06-28,CISO,True,False,239.0,False
+EXC-0049,VUL-00157,Supply Chain,Medium,Compensating control in place,2026-02-06,Approved,2026-05-07,BU Risk Owner,False,True,,False
+EXC-0050,VUL-00397,R&D,High,Compensating control in place,2026-03-16,Approved,2027-03-16,CISO,True,False,135.0,False
+EXC-0051,VUL-00703,Supply Chain,Medium,"Legacy system, vendor patch unavailable",2026-01-12,Pending,,,False,False,,False
+EXC-0052,VUL-01015,R&D,High,Planned decommission,2026-06-09,Approved,2026-09-07,CISO,False,True,,False
+EXC-0053,VUL-01282,Corporate IT,Medium,Planned decommission,2026-10-16,Approved,2027-01-14,Deputy CISO,True,False,74.0,False
+EXC-0054,VUL-00241,Corporate IT,Medium,Business-critical uptime window,2025-12-26,Pending,,,False,False,,False
+EXC-0055,VUL-00999,Manufacturing,Medium,Planned decommission,2025-12-09,Approved,2026-03-09,Deputy CISO,False,True,,False
+EXC-0056,VUL-00683,R&D,High,Compensating control in place,2026-08-02,Approved,2026-10-31,Deputy CISO,False,True,,False
+EXC-0057,VUL-00147,Commercial,Medium,Planned decommission,2026-06-03,Approved,2027-06-03,Deputy CISO,True,False,214.0,False
+EXC-0058,VUL-00116,Corporate IT,Medium,Business-critical uptime window,2026-10-18,Approved,2027-01-16,Deputy CISO,True,False,76.0,False
+EXC-0059,VUL-00391,R&D,High,Compensating control in place,2026-03-05,Rejected,,,False,False,,False
+EXC-0060,VUL-01615,Corporate IT,Medium,"Legacy system, vendor patch unavailable",2025-11-15,Approved,2026-11-15,BU Risk Owner,True,False,14.0,True
+EXC-0061,VUL-00025,Corporate IT,High,Planned decommission,2026-10-26,Approved,2027-10-26,Deputy CISO,True,False,359.0,False
+EXC-0062,VUL-01496,Manufacturing,High,Planned decommission,2025-12-31,Approved,2026-12-31,BU Risk Owner,True,False,60.0,False
+EXC-0063,VUL-00248,R&D,High,"Legacy system, vendor patch unavailable",2026-03-01,Rejected,,,False,False,,False
+EXC-0064,VUL-01112,Manufacturing,Medium,Business-critical uptime window,2025-11-02,Approved,2026-01-31,CISO,False,True,,False
+EXC-0065,VUL-00767,R&D,Medium,"Legacy system, vendor patch unavailable",2026-02-23,Approved,2026-08-22,BU Risk Owner,False,True,,False
+EXC-0066,VUL-00632,Manufacturing,High,Compensating control in place,2026-10-14,Rejected,,,False,False,,False
+EXC-0067,VUL-00962,Supply Chain,Medium,Business-critical uptime window,2025-12-24,Approved,2026-06-22,Deputy CISO,False,True,,False
+EXC-0068,VUL-00738,Manufacturing,High,Business-critical uptime window,2025-12-08,Approved,2026-03-08,BU Risk Owner,False,True,,False
+EXC-0069,VUL-00074,Supply Chain,Medium,"Legacy system, vendor patch unavailable",2026-08-18,Approved,2027-02-14,Deputy CISO,True,False,105.0,False
+EXC-0070,VUL-00416,Commercial,High,Business-critical uptime window,2026-08-30,Approved,2027-08-30,BU Risk Owner,True,False,302.0,False

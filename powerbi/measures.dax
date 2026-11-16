@@ -1,0 +1,114 @@
+// =====================================================================
+// GRC Metrics Dashboard - DAX measures
+// Create a table "_Measures" (Enter data, one empty column) and add each
+// measure below with New measure. Tables: vulnerabilities, assets,
+// control_tests, exceptions, issues, date_table
+// =====================================================================
+
+// ---------------- Vulnerability management ----------------
+
+Open Vulnerabilities =
+CALCULATE ( COUNTROWS ( vulnerabilities ), vulnerabilities[is_open] = TRUE () )
+
+Open Critical & High =
+CALCULATE (
+    [Open Vulnerabilities],
+    vulnerabilities[severity] IN { "Critical", "High" }
+)
+
+Overdue Vulnerabilities =
+CALCULATE ( COUNTROWS ( vulnerabilities ), vulnerabilities[is_overdue] = TRUE () )
+
+% Overdue =
+DIVIDE ( [Overdue Vulnerabilities], [Open Vulnerabilities] )
+
+Remediated Vulnerabilities =
+CALCULATE ( COUNTROWS ( vulnerabilities ), vulnerabilities[is_open] = FALSE () )
+
+% Remediated Within SLA =
+DIVIDE (
+    CALCULATE ( COUNTROWS ( vulnerabilities ), vulnerabilities[within_sla] = TRUE () ),
+    [Remediated Vulnerabilities]
+)
+
+MTTR (days) =
+CALCULATE (
+    AVERAGE ( vulnerabilities[days_to_remediate] ),
+    vulnerabilities[is_open] = FALSE ()
+)
+
+// Trend: new findings per month (relationship date_table[date] -> vulnerabilities[discovered_date])
+New Findings =
+COUNTROWS ( vulnerabilities )
+
+// Trend: remediated per month (inactive relationship on remediated_date)
+Remediated in Period =
+CALCULATE (
+    COUNTROWS ( vulnerabilities ),
+    USERELATIONSHIP ( date_table[date], vulnerabilities[remediated_date] )
+)
+
+// ---------------- Controls & compliance ----------------
+
+Controls Tested =
+CALCULATE ( DISTINCTCOUNT ( control_tests[control_ref] ), control_tests[is_latest_test] = TRUE () )
+
+% Controls Effective =
+DIVIDE (
+    CALCULATE (
+        COUNTROWS ( control_tests ),
+        control_tests[is_latest_test] = TRUE (),
+        control_tests[test_result] = "Effective"
+    ),
+    CALCULATE ( COUNTROWS ( control_tests ), control_tests[is_latest_test] = TRUE () )
+)
+
+Ineffective Controls =
+CALCULATE (
+    COUNTROWS ( control_tests ),
+    control_tests[is_latest_test] = TRUE (),
+    control_tests[test_result] = "Ineffective"
+)
+
+// For the quarterly trend (uses every test, not only the latest)
+Control Effectiveness Score =
+AVERAGE ( control_tests[result_score] )
+
+// ---------------- Exceptions ----------------
+
+Active Exceptions =
+CALCULATE ( COUNTROWS ( exceptions ), exceptions[is_active] = TRUE () )
+
+Exceptions Expiring 30d =
+CALCULATE ( COUNTROWS ( exceptions ), exceptions[expiring_30d] = TRUE () )
+
+Expired Exceptions =
+CALCULATE ( COUNTROWS ( exceptions ), exceptions[is_expired] = TRUE () )
+
+Pending Exceptions =
+CALCULATE ( COUNTROWS ( exceptions ), exceptions[approval_status] = "Pending" )
+
+// ---------------- Issues (audit & assessment findings) ----------------
+
+Open Issues =
+CALCULATE ( COUNTROWS ( issues ), issues[is_open] = TRUE () )
+
+Overdue Issues =
+CALCULATE ( COUNTROWS ( issues ), issues[is_overdue] = TRUE () )
+
+Avg Issue Age (days) =
+CALCULATE ( AVERAGE ( issues[age_days] ), issues[is_open] = TRUE () )
+
+// ---------------- Formatting helpers ----------------
+
+// Red / amber / green for the "% Remediated Within SLA" card
+SLA Status Colour =
+SWITCH (
+    TRUE (),
+    [% Remediated Within SLA] >= 0.90, "#2E7D32",
+    [% Remediated Within SLA] >= 0.75, "#F9A825",
+    "#C62828"
+)
+
+Last Refresh =
+"Data as of " & FORMAT ( DATE ( 2026, 11, 1 ), "d mmm yyyy" )

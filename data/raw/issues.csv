@@ -1,0 +1,141 @@
+issue_id,source,control_ref,business_unit,severity,opened_date,due_date,closed_date,status
+ISS-0001,Regulatory Inspection,A.8.5,R&D,Medium,2026-08-05,2026-12-03,,Open
+ISS-0002,Penetration Test,A.8.9,Supply Chain,Low,2025-11-18,2026-05-17,,In Remediation
+ISS-0003,Internal Audit,A.8.24,R&D,Low,2026-09-03,2027-03-02,,In Remediation
+ISS-0004,Penetration Test,A.5.30,Manufacturing,Low,2026-04-22,2026-10-19,,Open
+ISS-0005,Self-Assessment,A.5.12,Corporate IT,Medium,2026-06-20,2026-10-18,,Open
+ISS-0006,Self-Assessment,A.8.16,Corporate IT,Medium,2026-01-31,2026-05-31,2026-06-29,Closed
+ISS-0007,Self-Assessment,A.8.16,Manufacturing,High,2026-10-03,2026-12-02,,Open
+ISS-0008,Self-Assessment,A.5.30,Corporate IT,Medium,2026-10-06,2027-02-03,,In Remediation
+ISS-0009,Self-Assessment,A.8.2,R&D,Medium,2026-09-16,2027-01-14,,In Remediation
+ISS-0010,Penetration Test,A.5.30,Commercial,Medium,2026-02-09,2026-06-09,2026-02-28,Closed
+ISS-0011,Penetration Test,A.8.9,Commercial,Medium,2025-11-01,2026-03-01,2025-12-28,Closed
+ISS-0012,Penetration Test,A.8.15,Corporate IT,High,2026-03-18,2026-05-17,,In Remediation
+ISS-0013,Self-Assessment,A.5.9,Manufacturing,Medium,2026-04-19,2026-08-17,,Open
+ISS-0014,Regulatory Inspection,A.8.13,Commercial,Medium,2026-08-05,2026-12-03,,Open
+ISS-0015,Internal Audit,A.8.15,Supply Chain,Low,2026-05-21,2026-11-17,2026-09-08,Closed
+ISS-0016,Penetration Test,A.5.1,Commercial,Medium,2026-09-23,2027-01-21,,In Remediation
+ISS-0017,Internal Audit,A.5.1,Manufacturing,Low,2026-02-22,2026-08-21,,In Remediation
+ISS-0018,Incident Review,A.8.5,Supply Chain,Medium,2026-03-14,2026-07-12,2026-09-14,Closed
+ISS-0019,Self-Assessment,A.5.1,R&D,Low,2026-07-06,2027-01-02,2026-10-11,Closed
+ISS-0020,Internal Audit,A.5.29,Supply Chain,Medium,2026-08-29,2026-12-27,,In Remediation
+ISS-0021,Self-Assessment,A.8.15,Manufacturing,High,2026-07-17,2026-09-15,,In Remediation
+ISS-0022,Self-Assessment,A.5.9,Supply Chain,Medium,2026-05-17,2026-09-14,,In Remediation
+ISS-0023,Internal Audit,A.8.7,Commercial,Low,2026-10-15,2027-04-13,,Open
+ISS-0024,Internal Audit,A.5.17,Corporate IT,Low,2026-07-21,2027-01-17,,In Remediation
+ISS-0025,Self-Assessment,A.8.9,Commercial,High,2026-02-10,2026-04-11,2026-08-19,Closed
+ISS-0026,Internal Audit,A.8.24,Manufacturing,Low,2025-12-15,2026-06-13,,In Remediation
+ISS-0027,Internal Audit,A.8.7,R&D,Medium,2025-12-26,2026-04-25,2026-03-29,Closed
+ISS-0028,Self-Assessment,A.5.29,Manufacturing,Medium,2026-02-18,2026-06-18,,Open
+ISS-0029,Internal Audit,A.5.31,Commercial,Low,2026-06-18,2026-12-15,,Open
+ISS-0030,Internal Audit,A.5.15,Manufacturing,Medium,2026-09-26,2027-01-24,,In Remediation
+ISS-0031,Incident Review,A.5.17,Supply Chain,High,2026-05-16,2026-07-15,,In Remediation
+ISS-0032,Internal Audit,A.5.26,Manufacturing,Medium,2026-09-06,2027-01-04,,In Remediation
+ISS-0033,Self-Assessment,A.8.15,Corporate IT,Medium,2026-03-01,2026-06-29,,Open
+ISS-0034,Self-Assessment,A.6.3,Supply Chain,Low,2026-04-19,2026-10-16,2026-08-16,Closed
+ISS-0035,Internal Audit,A.8.5,R&D,Medium,2026-06-19,2026-10-17,2026-09-08,Closed
+ISS-0036,Regulatory Inspection,A.8.13,Supply Chain,Medium,2026-04-22,2026-08-20,,In Remediation
+ISS-0037,Penetration Test,A.6.3,Supply Chain,Medium,2026-06-05,2026-10-03,,In Remediation
+ISS-0038,Incident Review,A.5.15,Corporate IT,High,2026-01-05,2026-03-06,2026-06-21,Closed
+ISS-0039,Regulatory Inspection,A.5.12,R&D,Low,2025-11-14,2026-05-13,2025-11-25,Closed
+ISS-0040,Self-Assessment,A.8.9,Manufacturing,Low,2026-05-10,2026-11-06,,Open
+ISS-0041,Regulatory Inspection,A.5.15,R&D,High,2025-12-30,2026-02-28,,Open
+ISS-0042,Penetration Test,A.8.8,Supply Chain,Medium,2026-07-05,2026-11-02,2026-09-05,Closed
+ISS-0043,Internal Audit,A.5.29,Supply Chain,Medium,2026-10-16,2027-02-13,,In Remediation
+ISS-0044,Self-Assessment,A.5.26,R&D,Medium,2026-09-14,2027-01-12,,In Remediation
+ISS-0045,Penetration Test,A.8.24,Corporate IT,Medium,2026-09-23,2027-01-21,,Open
+ISS-0046,Incident Review,A.8.5,Commercial,Medium,2026-01-06,2026-05-06,2026-05-27,Closed
+ISS-0047,Penetration Test,A.5.17,R&D,Medium,2025-12-06,2026-04-05,2026-01-29,Closed
+ISS-0048,Internal Audit,A.5.9,Commercial,High,2025-12-03,2026-02-01,2026-05-17,Closed
+ISS-0049,Regulatory Inspection,A.5.29,R&D,Medium,2025-12-01,2026-03-31,2025-12-13,Closed
+ISS-0050,Self-Assessment,A.8.15,Manufacturing,Medium,2026-07-09,2026-11-06,,Open
+ISS-0051,Penetration Test,A.8.5,R&D,Low,2026-05-26,2026-11-22,2026-06-27,Closed
+ISS-0052,Penetration Test,A.8.15,Supply Chain,Low,2026-07-04,2026-12-31,2026-09-18,Closed
+ISS-0053,Regulatory Inspection,A.5.12,Commercial,Medium,2026-07-06,2026-11-03,2026-08-24,Closed
+ISS-0054,Penetration Test,A.8.16,Supply Chain,High,2025-12-17,2026-02-15,2026-06-16,Closed
+ISS-0055,Regulatory Inspection,A.5.24,Manufacturing,High,2025-12-23,2026-02-21,2026-05-22,Closed
+ISS-0056,Internal Audit,A.5.24,R&D,Medium,2026-01-29,2026-05-29,2026-08-02,Closed
+ISS-0057,Incident Review,A.5.9,Commercial,Low,2026-10-02,2027-03-31,,Open
+ISS-0058,Incident Review,A.8.7,Corporate IT,High,2026-08-23,2026-10-22,,Open
+ISS-0059,Penetration Test,A.5.1,Manufacturing,Low,2026-06-07,2026-12-04,,In Remediation
+ISS-0060,Self-Assessment,A.8.15,R&D,High,2026-08-09,2026-10-08,2026-09-30,Closed
+ISS-0061,Incident Review,A.8.13,Corporate IT,Low,2026-08-04,2027-01-31,,Open
+ISS-0062,Regulatory Inspection,A.8.9,R&D,Medium,2026-09-27,2027-01-25,,In Remediation
+ISS-0063,Regulatory Inspection,A.5.1,Corporate IT,Medium,2025-11-11,2026-03-11,2026-01-26,Closed
+ISS-0064,Penetration Test,A.5.1,Corporate IT,Medium,2025-12-30,2026-04-29,2026-05-03,Closed
+ISS-0065,Internal Audit,A.6.3,R&D,High,2026-08-20,2026-10-19,2026-09-16,Closed
+ISS-0066,Incident Review,A.5.17,R&D,Medium,2026-09-02,2026-12-31,,In Remediation
+ISS-0067,Incident Review,A.5.29,R&D,Medium,2026-04-17,2026-08-15,2026-09-16,Closed
+ISS-0068,Penetration Test,A.5.17,R&D,High,2025-11-15,2026-01-14,,In Remediation
+ISS-0069,Internal Audit,A.5.12,Commercial,Medium,2025-11-28,2026-03-28,2026-01-21,Closed
+ISS-0070,Incident Review,A.5.24,Supply Chain,Low,2026-07-09,2027-01-05,,In Remediation
+ISS-0071,Penetration Test,A.8.15,Supply Chain,Medium,2026-02-16,2026-06-16,,In Remediation
+ISS-0072,Penetration Test,A.5.12,R&D,High,2026-09-23,2026-11-22,2026-10-18,Closed
+ISS-0073,Penetration Test,A.5.1,Supply Chain,High,2026-04-04,2026-06-03,2026-07-22,Closed
+ISS-0074,Incident Review,A.5.1,Manufacturing,Medium,2026-06-24,2026-10-22,2026-08-14,Closed
+ISS-0075,Internal Audit,A.5.1,Commercial,High,2026-01-16,2026-03-17,,Open
+ISS-0076,Regulatory Inspection,A.5.29,R&D,High,2026-02-10,2026-04-11,2026-08-06,Closed
+ISS-0077,Self-Assessment,A.5.26,Manufacturing,High,2026-02-09,2026-04-10,,Open
+ISS-0078,Internal Audit,A.5.12,R&D,Medium,2026-07-14,2026-11-11,2026-08-22,Closed
+ISS-0079,Regulatory Inspection,A.5.24,Corporate IT,Medium,2025-12-30,2026-04-29,2026-02-08,Closed
+ISS-0080,Penetration Test,A.5.15,Manufacturing,Medium,2026-10-05,2027-02-02,,Open
+ISS-0081,Internal Audit,A.5.31,Manufacturing,Medium,2025-12-24,2026-04-23,2026-02-18,Closed
+ISS-0082,Incident Review,A.5.24,R&D,Medium,2026-04-25,2026-08-23,,Open
+ISS-0083,Internal Audit,A.8.16,Commercial,Low,2026-02-18,2026-08-17,2026-07-24,Closed
+ISS-0084,Self-Assessment,A.8.24,Supply Chain,High,2025-11-07,2026-01-06,,Open
+ISS-0085,Internal Audit,A.5.30,Corporate IT,High,2026-03-25,2026-05-24,2026-04-27,Closed
+ISS-0086,Regulatory Inspection,A.5.1,Commercial,Medium,2026-01-11,2026-05-11,,Open
+ISS-0087,Regulatory Inspection,A.5.1,R&D,High,2026-03-27,2026-05-26,2026-04-10,Closed
+ISS-0088,Self-Assessment,A.8.16,Manufacturing,Medium,2026-05-07,2026-09-04,,Open
+ISS-0089,Self-Assessment,A.8.15,R&D,Low,2026-02-18,2026-08-17,,In Remediation
+ISS-0090,Internal Audit,A.8.13,R&D,Low,2025-12-20,2026-06-18,2026-04-25,Closed
+ISS-0091,Self-Assessment,A.8.24,R&D,Medium,2026-05-03,2026-08-31,2026-09-28,Closed
+ISS-0092,Regulatory Inspection,A.8.2,Manufacturing,High,2025-11-14,2026-01-13,2025-12-13,Closed
+ISS-0093,Self-Assessment,A.8.15,Supply Chain,High,2026-07-05,2026-09-03,,Open
+ISS-0094,Internal Audit,A.5.31,Manufacturing,Medium,2026-08-13,2026-12-11,2026-09-07,Closed
+ISS-0095,Internal Audit,A.8.9,R&D,Medium,2025-12-14,2026-04-13,2026-05-24,Closed
+ISS-0096,Self-Assessment,A.8.13,R&D,High,2026-03-25,2026-05-24,2026-05-01,Closed
+ISS-0097,Internal Audit,A.8.24,Manufacturing,Low,2026-10-17,2027-04-15,,Open
+ISS-0098,Incident Review,A.8.16,Corporate IT,High,2025-11-09,2026-01-08,,In Remediation
+ISS-0099,Self-Assessment,A.5.1,Commercial,Medium,2026-04-07,2026-08-05,,In Remediation
+ISS-0100,Internal Audit,A.5.17,R&D,Medium,2026-01-28,2026-05-28,,In Remediation
+ISS-0101,Internal Audit,A.5.17,Supply Chain,Medium,2025-11-02,2026-03-02,2026-04-03,Closed
+ISS-0102,Penetration Test,A.5.30,R&D,High,2026-02-15,2026-04-16,2026-09-01,Closed
+ISS-0103,Self-Assessment,A.8.8,Supply Chain,High,2026-05-24,2026-07-23,2026-06-26,Closed
+ISS-0104,Penetration Test,A.5.24,Manufacturing,High,2025-11-07,2026-01-06,2026-05-22,Closed
+ISS-0105,Internal Audit,A.6.3,Manufacturing,High,2025-11-16,2026-01-15,,In Remediation
+ISS-0106,Internal Audit,A.5.12,Corporate IT,High,2026-07-19,2026-09-17,,Open
+ISS-0107,Internal Audit,A.5.29,Commercial,Medium,2025-11-25,2026-03-25,,In Remediation
+ISS-0108,Internal Audit,A.5.9,Supply Chain,Medium,2026-05-25,2026-09-22,,In Remediation
+ISS-0109,Penetration Test,A.5.24,Corporate IT,High,2026-07-31,2026-09-29,,In Remediation
+ISS-0110,Self-Assessment,A.6.3,R&D,Medium,2026-07-13,2026-11-10,2026-08-22,Closed
+ISS-0111,Internal Audit,A.5.24,Commercial,Low,2026-02-11,2026-08-10,,In Remediation
+ISS-0112,Internal Audit,A.5.1,Manufacturing,Low,2026-06-12,2026-12-09,,Open
+ISS-0113,Internal Audit,A.5.12,Commercial,Low,2026-10-25,2027-04-23,,In Remediation
+ISS-0114,Penetration Test,A.5.9,Manufacturing,Medium,2025-12-22,2026-04-21,2026-03-26,Closed
+ISS-0115,Penetration Test,A.5.17,Commercial,Low,2025-11-26,2026-05-25,2026-04-09,Closed
+ISS-0116,Self-Assessment,A.5.30,Manufacturing,High,2026-10-02,2026-12-01,,In Remediation
+ISS-0117,Internal Audit,A.8.5,Manufacturing,Medium,2026-04-11,2026-08-09,2026-10-19,Closed
+ISS-0118,Internal Audit,A.5.31,Corporate IT,Medium,2026-09-08,2027-01-06,,In Remediation
+ISS-0119,Penetration Test,A.5.15,R&D,Low,2026-07-29,2027-01-25,,In Remediation
+ISS-0120,Self-Assessment,A.5.30,Commercial,Medium,2026-10-17,2027-02-14,,Open
+ISS-0121,Internal Audit,A.5.26,Commercial,Medium,2026-05-15,2026-09-12,,Open
+ISS-0122,Regulatory Inspection,A.6.3,Corporate IT,Medium,2026-08-20,2026-12-18,2026-10-28,Closed
+ISS-0123,Penetration Test,A.5.31,Commercial,High,2026-10-19,2026-12-18,,Open
+ISS-0124,Internal Audit,A.8.13,R&D,Low,2026-06-17,2026-12-14,,In Remediation
+ISS-0125,Self-Assessment,A.5.29,Corporate IT,Low,2026-10-05,2027-04-03,,Open
+ISS-0126,Penetration Test,A.5.9,Commercial,High,2026-05-30,2026-07-29,2026-07-19,Closed
+ISS-0127,Penetration Test,A.8.9,Commercial,High,2026-08-07,2026-10-06,,In Remediation
+ISS-0128,Incident Review,A.5.30,Supply Chain,Low,2025-12-28,2026-06-26,2026-04-30,Closed
+ISS-0129,Self-Assessment,A.5.15,Supply Chain,Medium,2026-03-29,2026-07-27,,In Remediation
+ISS-0130,Penetration Test,A.5.24,Commercial,Low,2026-04-05,2026-10-02,2026-05-26,Closed
+ISS-0131,Incident Review,A.8.15,Corporate IT,Medium,2026-02-28,2026-06-28,2026-06-30,Closed
+ISS-0132,Internal Audit,A.5.12,Corporate IT,Low,2026-08-04,2027-01-31,2026-08-20,Closed
+ISS-0133,Regulatory Inspection,A.8.5,R&D,Medium,2026-07-01,2026-10-29,,In Remediation
+ISS-0134,Penetration Test,A.5.15,R&D,Medium,2026-04-03,2026-08-01,2026-05-06,Closed
+ISS-0135,Self-Assessment,A.8.5,Supply Chain,Medium,2026-07-14,2026-11-11,,In Remediation
+ISS-0136,Penetration Test,A.5.1,Corporate IT,Medium,2026-07-17,2026-11-14,,Open
+ISS-0137,Internal Audit,A.5.15,Supply Chain,Medium,2026-08-29,2026-12-27,,In Remediation
+ISS-0138,Penetration Test,A.8.5,Corporate IT,High,2026-06-07,2026-08-06,,In Remediation
+ISS-0139,Self-Assessment,A.8.16,Commercial,Medium,2026-10-20,2027-02-17,,Open
+ISS-0140,Penetration Test,A.8.16,R&D,Low,2026-06-24,2026-12-21,,In Remediation
