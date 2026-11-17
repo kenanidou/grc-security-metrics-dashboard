@@ -71,3 +71,14 @@ DAX measures are in `powerbi/measures.dax`; metric definitions are in `docs/metr
 ## Tools
 
 Python (pandas, NumPy), Power BI (Power Query, DAX, data modelling), Git
+
+## Skills gained
+
+- **Data pipelines in Python:** building a reproducible, script-based pipeline (generate → prepare → export) with pandas and NumPy
+- **Data quality & validation:** deduplication, standardising categorical values, deriving missing values (severity from CVSS), handling invalid dates and orphan records
+- **Audit logging & traceability:** recording every data quality fix in a log so dashboard figures can be traced back to their source
+- **Data modelling:** designing a star-style model with fact tables, dimensions and a date table
+- **Power BI & DAX:** Power Query transformations, DAX measures (SLA compliance, MTTR, ageing, RAG status) and multi-page report design
+- **KPI design:** turning business questions into clear, documented metric definitions
+- **Security & compliance (GRC):** vulnerability management and remediation SLAs, control testing, risk exceptions, audit issue tracking, ISO/IEC 27001:2022 Annex A and NIST CSF 2.0
+- **Data storytelling:** presenting cyber risk to leadership through executive-level dashboards
